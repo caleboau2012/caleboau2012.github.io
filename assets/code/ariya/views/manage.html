@@ -1,0 +1,307 @@
+<div class="row" xmlns="http://www.w3.org/1999/html">
+    <div class="col-xs-12 col-sm-3 col-md-2 sidebar">
+        <div ng-if="currentUser" class="panel panel-info notifications" ng-controller="NotificationController">
+            <div class="panel-heading">
+                <div class="panel-title">Notifications</div>
+            </div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    <a href="" ng-repeat="noti in notificationArray">
+                        <li class="list-group-item small">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h5>{{noti.property_name}}</h5>
+                                    <p>{{noti.message}}</p>
+                                    <p><i>{{noti.date | amCalendar }} </i></p>
+                                </div>
+                            </div>
+                            <span class="clearfix"></span>
+                        </li>
+                    </a>
+                </ul>
+                <button ng-disabled="disableNotiLoadMore" class="btn btn-block btn-default" ng-click="moreNotifications()"> Load More </button>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        <!--<h1 class="page-header">Dashboard</h1>-->
+
+        <div class="row" ng-controller="ProfileController">
+            <ul class="nav nav-tabs">
+                <li role="presentation" class="active"><a href data-target="#profile" aria-controls="profile" role="tab" data-toggle="tab">Manage Profile</a></li>
+                <li role="presentation"><a href data-target="#properties" aria-controls="properties" role="tab" data-toggle="tab">Manage Properties</a></li>
+                <li role="presentation"><a href data-target="#change-password" aria-controls="change-password" role="tab" data-toggle="tab">Change Password</a></li>
+                <li role="presentation"><a id="notiTab" href data-target="#notifications" aria-controls="notifications" role="tab" data-toggle="tab">Your Notifications</a></li>
+            </ul>
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="profile">
+                    <br>
+                    <div class="col-xs-12 col-sm-4 placeholders">
+                        <img class="img-responsive center-img" ng-src="{{pUser.profile_picture}}" id="profileImage">
+                        <br>
+                        <button class="btn btn-primary" ng-click="addImage()"><span class="glyphicon glyphicon-edit"></span>Edit</button>
+                    </div>
+                    <div class="col-xs-12 col-sm-8">
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">Manage Property <small>(required *)</small></h4>
+                            </div>
+                            <form ng-submit="editProfile(pUser)">
+                                <div class="panel-body">
+                                    <input type="file" id="imageTrigger" class="hidden" ng-value="pUser.avatar" accept="image/*" />
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <p>First Name*</p>
+                                            <input required class="form-control" placeholder="First Name" name="firstname" ng-model="pUser.fname">
+                                        </div>
+                                        <div class="col-md-6">
+                                            <p>Last Name*</p>
+                                            <input required class="form-control" placeholder="Last Name" name="lastname" ng-model="pUser.lname">
+                                        </div>
+                                    </div>
+                                    <br>
+                                    <p>Phone Number*</p>
+                                    <input required class="form-control" placeholder="Phone Number" name="phone" ng-model="pUser.phone">
+                                    <br>
+                                    <p>Street*</p>
+                                    <input required class="form-control" placeholder="Street" name="address" ng-model="pUser.street">
+                                    <br>
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <p>City*</p>
+                                            <input required class="form-control" placeholder="City" name="city" ng-model="pUser.city">
+                                        </div>
+                                        <div class="col-md-4">
+                                            <p>State*</p>
+                                            <input required class="form-control" placeholder="State" name="state" ng-model="pUser.state">
+                                        </div>
+                                        <div class="col-md-4">
+                                            <p>Country*</p>
+                                            <select name="property-address-country" class="form-control" ng-model="pUser.country" required>
+                                                <option ng-model="pUser.country" ng-repeat="country in countries" ng-value="{{pUser.country}}">{{country}}</option>
+                                            </select>
+                                            <!-- <input required class="form-control" placeholder="Country" name="country" ng-model="pUser.country"> -->
+                                        </div>
+                                    </div>
+                                    <br>
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <p>Account Number (If you own property)</p>
+                                            <input  class="form-control" placeholder="Account number" name="accnum" ng-model="pUser.accnum">
+                                        </div>
+                                        <div class="col-md-6">
+                                            <p>Bank Code (If you own property)</p>
+                                            <input  class="form-control" placeholder="Bank Code" name="bankcode" ng-model="pUser.bankcode">
+                                        </div>
+                                    </div>
+                                    <br>
+                                    <p>Company Name</p>
+                                    <input class="form-control" placeholder="Company Name" name="cname" ng-model="pUser.cname">
+                                    <br>
+                                    <p>Company Street</p>
+                                    <input class="form-control" placeholder="Company Street" name="caddress" ng-model="pUser.cstreet">
+                                    <br>
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <p>Company City</p>
+                                            <input name="ccity" class="form-control" placeholder="Company City" ng-model="pUser.ccity">
+                                        </div>
+                                        <div class="col-md-4">
+                                            <p>Company State</p>
+                                            <input name="cstate" class="form-control" placeholder="Company State" ng-model="pUser.cstate">
+                                        </div>
+                                        <div class="col-md-4">
+                                            <p>Company Location (Country)</p>
+                                            <select name="ccountry" class="form-control" ng-model="pUser.ccountry">
+                                                <option ng-model="pUser.ccountry" ng-repeat="country in countries" ng-value="{{pUser.ccountry}}">{{country}}</option>
+                                            </select>
+                                            <!-- <input name="ccountry" class="form-control" placeholder="Company Country" ng-model="pUser.ccountry"> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel-footer">
+                                    <button class="btn btn-success pull-right"><span class="glyphicon glyphicon-save"></span> Save</button>
+                                    <div class="clearfix"></div>
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="change-password">
+                    <br>
+                    <div class="row">
+                        <div class="col-xs-6 col-xs-offset-3">
+                            <div class="panel panel-primary">
+                                <div class="panel-heading">
+                                    <h1 class="panel-title">Reset your Password</h1>
+                                </div>
+                                <form ng-controller="ChangePasswordController" ng-submit="changePassword(passwords)">
+                                    <div class="panel-body">
+                                        <label>Enter your old password</label>
+                                        <input type="password" name="oldpassword" class="form-control" placeholder="Password" required="" autofocus="" ng-model="passwords.oldpassword">
+                                        <br>
+                                        <label>Enter your new password</label>
+                                        <input type="password" name="password" class="form-control" placeholder="Password" required="" autofocus="" ng-model="passwords.newpassword">
+                                        <br>
+                                        <label>Re-enter your new password</label>
+                                        <input type="password" name="confirm" class="form-control" placeholder="Password" required="" ng-model="passwords.confirmnewpassword">
+                                    </div>
+                                    <div class="panel-footer">
+                                        <div class="checkbox">
+                                            <button class="btn btn-primary pull-right" type="submit">Change</button>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div role="tabpanel" class="tab-pane placeholders" id="properties">
+                    <div class="navbar">
+                        <ul class="nav navbar-nav navbar-left" style="margin-top: 5px;">
+                            <li class="active"><button class="btn btn-success" ng-click="addNewProperty()"><span class="glyphicon glyphicon-plus"></span> Add New</button></li>
+                        </ul>
+                        <form class="navbar-form navbar-right" role="search">
+                            <div class="input-group search-add-on">
+                                <input type="text" class="form-control" placeholder="Search" name="srch-term" ng-model="filter.name" id="search-term">
+                                <div class="input-group-btn">
+                                    <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="row placeholders masonry">
+                        <div class="col-xs-12 col-sm-4 placeholder item" ng-repeat="property in properties | filter:filter.name">
+                            <a href ui-sref="editProperty({id:{{property.property_id}}})">
+                                <div class="panel panel-info" >
+                                    <div class="panel-heading">
+                                        <p class="panel-title">{{property.name}}</p>
+                                    </div>
+                                    <div class="panel-body">
+                                        <img ng-src="{{property.src}}" class="img-responsive" alt="Property thumbnail">
+                                        <span class="text-muted">{{property.short_description}}</span>
+                                    </div>
+                                    <div class="panel-footer">
+                                        <span class="glyphicon glyphicon-map-marker"></span>
+                                        <span>{{property.street+" "+property.city+" "+property.state }}</span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="notifications">
+                    <br>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="panel panel-info notifications">
+                                <div class="panel-heading">
+                                    <div class="panel-title"><span class="fa fa-tasks"></span> Actions</div>
+                                    <div class="clear-fix"></div>
+                                </div>
+                                <div class="panel-body notifications-main">
+                                    <div class="list-group">
+                                        <div ng-repeat="noti in actionsArray">
+                                            <li class="list-group-item small">
+                                                <div class="row">
+                                                    <div class="col-sm-6 property-image-thumbnail">
+                                                        <img ng-src="{{noti.property_image}}">
+                                                    </div>
+                                                    <div class="col-sm-6">
+                                                        <span><h4>{{noti.property_name}}</h4></span>
+                                                        <p>User: {{noti.user_name}}</p>
+                                                        <p>Email: {{noti.email}}</p>
+                                                        <p>Phone: {{noti.phone}}</p>
+                                                        <p>Event date: {{noti.event_date}}</p>
+                                                        <p>Price: #{{noti.property_price}}</p>
+                                                        <p>Date: {{noti.date}}</p>
+                                                    </div>
+                                                </div>
+                                                <div ng-if="noti.options" class="row">
+                                                    <div class="col-xs-6">
+                                                        <button class="btn btn-sm btn-block btn-primary" ng-click="performNotificationAction($index,1)">Accept <span class="fa fa-check-circle"></span></button>
+                                                    </div>
+                                                    <div class="col-xs-6">
+                                                        <button class="btn btn-sm btn-block btn-info" ng-click="performNotificationAction($index,0)">Reject <span class="fa fa-times-circle"></span> </button>
+                                                    </div>
+                                                </div>
+                                                <div ng-if="noti.pay" class="row">
+                                                    <!-- <button class="btn btn-sm btn-block btn-success" ng-click="pay(noti.id)">Pay <span class="fa fa-check-circle"></span></button> -->
+                                                    <div class="col-xs-6">
+                                                        <button class="btn btn-sm btn-block btn-success" ng-click="pay(noti.id,true)">Pay <span class="fa fa-check-circle"></span></button>
+                                                    </div>
+                                                    <div class="col-xs-6">
+                                                        <button class="btn btn-sm btn-block btn-default" ng-click="pay(noti.id,false)">Cancel <span class="fa fa-times-circle"></span></button>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="panel panel-info notifications">
+                                <div class="panel-heading">
+                                    <div class="panel-title"><span class="fa fa-comment"></span> Messages</div>
+                                    <div class="clear-fix"></div>
+                                </div>
+                                <div class="panel-body notifications-main">
+                                    <div class="list-group">
+                                        <div ng-repeat="noti in messagesArray">
+                                            <li class="list-group-item small">
+                                                <div class="row">
+                                                    <div class="col-sm-6 property-image-thumbnail">
+                                                        <img ng-src="{{noti.image}}">
+                                                    </div>
+                                                    <div class="col-sm-6">
+                                                        <span><h4>{{noti.name}}</h4></span>
+                                                        <p>{{noti.message}}</p>
+                                                        <p>Event date: {{noti.event_date}}</p>
+                                                        <p>Date: {{noti.date}}</p>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="panel panel-info notifications">
+                                <div class="panel-heading">
+                                    <div class="panel-title"><span class="fa fa-comments"></span> Reviews</div>
+                                    <div class="clear-fix"></div>
+                                </div>
+                                <div class="panel-body notifications-main">
+                                    <div class="list-group">
+                                        <div ng-repeat="noti in reviewsArray">
+                                            <li class="list-group-item small pointer">
+                                                <div class="row">
+                                                    <div class="col-sm-6 property-image-thumbnail">
+                                                        <img ng-src="{{noti.image}}">
+                                                    </div>
+                                                    <div class="col-sm-6">
+                                                        <span><h4>{{noti.name}}</h4></span>
+                                                        <p>Email: {{noti.email}}</p>
+                                                        <p>Phone: {{noti.phone}}</p>
+                                                        <p>Rate: {{noti.rating}}/5</p>
+                                                        <p>Message: {{noti.review}}</p>
+                                                        <p>Date: {{noti.date}}</p>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

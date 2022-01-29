@@ -1,0 +1,5 @@
+{"merchantId":"2547916","serviceTypeId":"4430731","totalAmount":"3000","hash":"6abe3267bc3a62d33488635ff293dd9f3c1203946f51b25cefaae67d32397901723dab77b4da7983f810e81a6fc48c5ee54a91b5b4dea2d0256ddc6dd51e6b5a","orderId":"260915102538","responseurl":"http://code.caleb.com.ng/ariya/sample_split_payment_to_remita/sample-receipt-page.php","payerName":"Caleb Chukwuezugo Mbakwe","payerEmail":"caleboau2012@gmail.com","payerPhone":"1234567890","lineItems":[
+{"lineItemsId":"itemid1","beneficiaryName":"Oshadami Mke","beneficiaryAccount":"3455665434","bankCode":"011","beneficiaryAmount":"1000","deductFeeFrom":"1"},
+{"lineItemsId":"34444260915102538","beneficiaryName":"Mujib Ishola","beneficiaryAccount":"123665434","bankCode":"050","beneficiaryAmount":"1000","deductFeeFrom":"0"},
+{"lineItemsId":"8694260915102538","beneficiaryName":"Ogunseye Olarewanju","beneficiaryAccount":"1264565434","bankCode":"070","beneficiaryAmount":"1000","deductFeeFrom":"0"}
+]}

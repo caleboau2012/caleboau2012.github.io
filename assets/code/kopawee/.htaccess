@@ -1,0 +1,6 @@
+RewriteEngine On    # Turn on the rewriting engine             
+RewriteRule	^([A-Za-z-]+)?$                 $1.php              [NC,L]  # redirect all
+RewriteRule ^announcement/?$    announcement/get.php [NC,L]  #rewrite announcement
+RewriteRule ^announcement/([A-Za-z-]+)?$    announcement/$1.php [NC,L]  #rewrite announcement
+RewriteRule ^community/([A-Za-z-]+)?$       community/$1.php    [NC,L]  #rewrite community
+RewriteRule ^news/?$            news/news.php         [NC,L]  #rewite news

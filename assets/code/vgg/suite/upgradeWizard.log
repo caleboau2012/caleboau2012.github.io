@@ -1,0 +1,1717 @@
+Mon, 12 Oct 2015 05:34:41 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 05:34:41 -0500 [UpgradeWizard] - -----------------------------------------------------------------------------
+Mon, 12 Oct 2015 05:34:41 -0500 [UpgradeWizard] - Upgrade started. At start.php
+Mon, 12 Oct 2015 05:34:41 -0500 [UpgradeWizard] - at unlinkUWTempFiles()
+Mon, 12 Oct 2015 05:34:41 -0500 [UpgradeWizard] - finished!
+Mon, 12 Oct 2015 05:34:41 -0500 [UpgradeWizard] - resetting $_SESSION
+Mon, 12 Oct 2015 05:34:51 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 05:34:51 -0500 [UpgradeWizard] - [At systemCheck.php]
+Mon, 12 Oct 2015 05:34:51 -0500 [UpgradeWizard] - Starting file permission check...
+Mon, 12 Oct 2015 05:36:31 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 05:36:31 -0500 [UpgradeWizard] - -----------------------------------------------------------------------------
+Mon, 12 Oct 2015 05:36:31 -0500 [UpgradeWizard] - Upgrade started. At start.php
+Mon, 12 Oct 2015 05:36:31 -0500 [UpgradeWizard] - at unlinkUWTempFiles()
+Mon, 12 Oct 2015 05:36:31 -0500 [UpgradeWizard] - finished!
+Mon, 12 Oct 2015 05:36:31 -0500 [UpgradeWizard] - resetting $_SESSION
+Mon, 12 Oct 2015 05:36:39 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 05:36:39 -0500 [UpgradeWizard] - [At systemCheck.php]
+Mon, 12 Oct 2015 05:36:39 -0500 [UpgradeWizard] - Starting file permission check...
+Mon, 12 Oct 2015 05:38:30 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 05:38:30 -0500 [UpgradeWizard] - -----------------------------------------------------------------------------
+Mon, 12 Oct 2015 05:38:30 -0500 [UpgradeWizard] - Upgrade started. At start.php
+Mon, 12 Oct 2015 05:38:30 -0500 [UpgradeWizard] - at unlinkUWTempFiles()
+Mon, 12 Oct 2015 05:38:30 -0500 [UpgradeWizard] - finished!
+Mon, 12 Oct 2015 05:38:30 -0500 [UpgradeWizard] - resetting $_SESSION
+Mon, 12 Oct 2015 05:38:36 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 05:38:36 -0500 [UpgradeWizard] - [At systemCheck.php]
+Mon, 12 Oct 2015 05:38:36 -0500 [UpgradeWizard] - Starting file permission check...
+Mon, 12 Oct 2015 05:42:56 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 05:42:56 -0500 [UpgradeWizard] - -----------------------------------------------------------------------------
+Mon, 12 Oct 2015 05:42:56 -0500 [UpgradeWizard] - Upgrade started. At start.php
+Mon, 12 Oct 2015 05:42:56 -0500 [UpgradeWizard] - at unlinkUWTempFiles()
+Mon, 12 Oct 2015 05:42:56 -0500 [UpgradeWizard] - finished!
+Mon, 12 Oct 2015 05:42:56 -0500 [UpgradeWizard] - resetting $_SESSION
+Mon, 12 Oct 2015 05:43:07 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 05:43:07 -0500 [UpgradeWizard] - [At systemCheck.php]
+Mon, 12 Oct 2015 05:43:07 -0500 [UpgradeWizard] - Starting file permission check...
+Mon, 12 Oct 2015 05:49:33 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 05:49:33 -0500 [UpgradeWizard] - -----------------------------------------------------------------------------
+Mon, 12 Oct 2015 05:49:33 -0500 [UpgradeWizard] - Upgrade started. At start.php
+Mon, 12 Oct 2015 05:49:33 -0500 [UpgradeWizard] - at unlinkUWTempFiles()
+Mon, 12 Oct 2015 05:49:33 -0500 [UpgradeWizard] - finished!
+Mon, 12 Oct 2015 05:49:33 -0500 [UpgradeWizard] - resetting $_SESSION
+Mon, 12 Oct 2015 05:50:40 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 05:50:40 -0500 [UpgradeWizard] - [At systemCheck.php]
+Mon, 12 Oct 2015 05:50:40 -0500 [UpgradeWizard] - Starting file permission check...
+Mon, 12 Oct 2015 10:42:28 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 10:42:28 -0500 [UpgradeWizard] - -----------------------------------------------------------------------------
+Mon, 12 Oct 2015 10:42:28 -0500 [UpgradeWizard] - Upgrade started. At start.php
+Mon, 12 Oct 2015 10:42:28 -0500 [UpgradeWizard] - at unlinkUWTempFiles()
+Mon, 12 Oct 2015 10:42:28 -0500 [UpgradeWizard] - finished!
+Mon, 12 Oct 2015 10:42:28 -0500 [UpgradeWizard] - resetting $_SESSION
+Mon, 12 Oct 2015 10:42:42 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 10:42:42 -0500 [UpgradeWizard] - [At systemCheck.php]
+Mon, 12 Oct 2015 10:42:42 -0500 [UpgradeWizard] - Starting file permission check...
+Mon, 12 Oct 2015 12:36:06 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 12:36:06 -0500 [UpgradeWizard] - -----------------------------------------------------------------------------
+Mon, 12 Oct 2015 12:36:06 -0500 [UpgradeWizard] - Upgrade started. At start.php
+Mon, 12 Oct 2015 12:36:06 -0500 [UpgradeWizard] - at unlinkUWTempFiles()
+Mon, 12 Oct 2015 12:36:06 -0500 [UpgradeWizard] - finished!
+Mon, 12 Oct 2015 12:36:06 -0500 [UpgradeWizard] - resetting $_SESSION
+Mon, 12 Oct 2015 12:37:50 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 12:37:50 -0500 [UpgradeWizard] - -----------------------------------------------------------------------------
+Mon, 12 Oct 2015 12:37:50 -0500 [UpgradeWizard] - Upgrade started. At start.php
+Mon, 12 Oct 2015 12:37:50 -0500 [UpgradeWizard] - at unlinkUWTempFiles()
+Mon, 12 Oct 2015 12:37:50 -0500 [UpgradeWizard] - finished!
+Mon, 12 Oct 2015 12:37:50 -0500 [UpgradeWizard] - resetting $_SESSION
+Mon, 12 Oct 2015 12:38:54 -0500 [UpgradeWizard] - setting session variables...
+Mon, 12 Oct 2015 12:38:54 -0500 [UpgradeWizard] - [At systemCheck.php]
+Mon, 12 Oct 2015 12:38:54 -0500 [UpgradeWizard] - Starting file permission check...
+Tue, 13 Oct 2015 03:08:58 -0500 [UpgradeWizard] - setting session variables...
+Tue, 13 Oct 2015 03:08:58 -0500 [UpgradeWizard] - -----------------------------------------------------------------------------
+Tue, 13 Oct 2015 03:08:58 -0500 [UpgradeWizard] - Upgrade started. At start.php
+Tue, 13 Oct 2015 03:08:58 -0500 [UpgradeWizard] - at unlinkUWTempFiles()
+Tue, 13 Oct 2015 03:08:58 -0500 [UpgradeWizard] - finished!
+Tue, 13 Oct 2015 03:08:58 -0500 [UpgradeWizard] - resetting $_SESSION
+Tue, 13 Oct 2015 03:10:04 -0500 [UpgradeWizard] - setting session variables...
+Tue, 13 Oct 2015 03:10:04 -0500 [UpgradeWizard] - [At systemCheck.php]
+Tue, 13 Oct 2015 03:10:04 -0500 [UpgradeWizard] - Starting file permission check...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Finished file permission check.
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Starting database permissions check...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Checking CREATE TABLE permissions...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Checking INSERT INTO permissions...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Checking UPDATE TABLE permissions...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Checking SELECT permissions...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Checking DELETE FROM permissions...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Checking ALTER TABLE ADD COLUMN permissions...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Checking ALTER TABLE CHANGE COLUMN permissions...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Checking ALTER TABLE DROP COLUMN permissions...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Checking DROP TABLE permissions...
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - No permissions errors found!
+Tue, 13 Oct 2015 03:11:54 -0500 [UpgradeWizard] - Finished database permissions check.
+Tue, 13 Oct 2015 03:13:22 -0500 [UpgradeWizard] - setting session variables...
+Tue, 13 Oct 2015 03:13:22 -0500 [UpgradeWizard] - At upload.php
+Tue, 13 Oct 2015 03:13:22 -0500 [UpgradeWizard] - finding new files for upgrade
+Tue, 13 Oct 2015 03:13:23 -0500 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - setting session variables...
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - At upload.php
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - running upload
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - File uploaded to upload://SuiteCRM-Upgrade-7.2.x-to-7.3.1.zip
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - extracting manifest.
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - validating manifest.php file
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - copying manifest.php to final destination.
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - zip file moved to [SuiteCRM-Upgrade-7.2.x-to-7.3.1.zip]
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/end.php
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - updating UpgradeWizard code: include/SugarTheme/SugarTheme.php
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - updating UpgradeWizard code: include/utils/autoloader.php
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - finding new files for upgrade
+Tue, 13 Oct 2015 03:14:26 -0500 [UpgradeWizard] - *** UW using [ upload://upgrades/patch/SuiteCRM-Upgrade-7.2.x-to-7.3.1.zip ] as source for patch files.
+Tue, 13 Oct 2015 03:14:41 -0500 [UpgradeWizard] - setting session variables...
+Tue, 13 Oct 2015 03:14:41 -0500 [UpgradeWizard] - at preflight.php
+Tue, 13 Oct 2015 03:14:41 -0500 [UpgradeWizard] - unzipping files in upgrade archive...
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - verifying md5 checksums for files...
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/vCals/vCal.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/views/view.detail.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/tpls/EditViewFooter.tpl]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/language/en_us.lang.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/Logout.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/GeneratePassword.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/UserPreferences/UserPreference.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/SchedulersJobs/language/en_us.lang.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Schedulers/language/en_us.lang.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Schedulers/Scheduler.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/ProspectLists/ProspectList.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Opportunities/SaveOverload.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Notes/vardefs.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/tpls/MBModule/vardef.tpl]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/tpls/LayoutEditor.css]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/language/en_us.lang.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/javascript/ModuleBuilder.js]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/MB/MBModule.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Meetings/views/view.edit.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Meetings/tpls/footer.tpl]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Meetings/metadata/additionalDetails.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Leads/views/view.convertlead.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Leads/metadata/detailviewdefs.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Leads/metadata/additionalDetails.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Emails/EditViewArchive.html]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Emails/EditView.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/DynamicFields/templates/Fields/TemplateField.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/DynamicFields/templates/Fields/Forms/coreBottom.tpl]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/DynamicFields/language/en_us.lang.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/DynamicFields/FieldsMetaData.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/DynamicFields/DynamicField.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Contacts/vardefs.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Contacts/metadata/detailviewdefs.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Contacts/metadata/additionalDetails.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Connectors/InstallDefaultConnectors.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Configurator/tpls/EditView.tpl]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Configurator/language/en_us.lang.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Configurator/UploadFileCheck.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Configurator/Configurator.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Campaigns/tpls/WizardCampaignTargetListForNonNewsLetter.tpl]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/CampaignLog/CampaignLog.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Calls/metadata/additionalDetails.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Calendar/Calendar.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Calendar/Cal.js]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Administration/views/view.globalsearchsettings.php]
+Tue, 13 Oct 2015 03:14:42 -0500 [UpgradeWizard] - found a file with a differing md5: [./modules/Accounts/metadata/detailviewdefs.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./jssource/src_files/modules/Meetings/jsclass_scheduler.js]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./jssource/src_files/include/javascript/sugar_3.js]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./jssource/src_files/include/javascript/quickCompose.js]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./jssource/src_files/include/javascript/jsclass_async.js]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./jssource/JSGroupings.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./install/install_utils.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./install/checkDBSettings.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/utils/sugar_file_utils.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/utils/layout_utils.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/utils/file_utils.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/utils/autoloader.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/javascript/sugar_3.js]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/javascript/quickCompose.js]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/javascript/jsAlerts.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/javascript/jquery/bootstrap.min.js]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/generic/SugarWidgets/SugarWidgetSubPanelTopButton.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/generic/SugarWidgets/SugarWidgetSubPanelTopArchiveEmailButton.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/generic/SugarWidgets/SugarWidgetSubPanelRemoveButton.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/formbase.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/SugarTheme/SugarTheme.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/SubPanel/SubPanelTiles.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/SearchForm/SearchForm2.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/Popups/tpls/footer.tpl]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/MVC/SugarApplication.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/ListView/ListViewSmarty.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/ListView/ListViewGeneric.tpl]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/HTMLPurifier/HTMLPurifier.standalone.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/DetailView/DetailView2.php]
+Tue, 13 Oct 2015 03:14:43 -0500 [UpgradeWizard] - found a file with a differing md5: [./include/DetailView/DetailView.tpl]
+Tue, 13 Oct 2015 03:14:44 -0500 [UpgradeWizard] - md5 verification done.
+Tue, 13 Oct 2015 03:14:44 -0500 [UpgradeWizard] - updating UpgradeWizard code: include/database/DBManager.php
+Tue, 13 Oct 2015 03:14:44 -0500 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Tue, 13 Oct 2015 03:14:44 -0500 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Tue, 13 Oct 2015 03:14:44 -0500 [UpgradeWizard] - updating UpgradeWizard code: include/utils/autoloader.php
+Tue, 13 Oct 2015 03:14:44 -0500 [UpgradeWizard] - file preflight check passed successfully.
+Tue, 13 Oct 2015 03:14:44 -0500 [UpgradeWizard] - starting schema preflight check...
+Tue, 13 Oct 2015 03:14:44 -0500 [UpgradeWizard] - looking for schema script at: /home/supportv/public_html/cache/upgrades/temp/VDvjk7/scripts/650_to_730_mysql.sql
+Tue, 13 Oct 2015 03:14:44 -0500 [UpgradeWizard] - no schema script found - all schema preflight skipped
+Tue, 13 Oct 2015 03:14:44 -0500 [UpgradeWizard] - schema preflight done.
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - setting session variables...
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - [At commit.php]
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Setting error_reporting() to E_ERROR while running upgrade
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - backing up files to be overwritten...
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/SuiteR/tpls/login.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/SuiteR/tpls/footer.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/SuiteR/tpls/_headerModuleList.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/SuiteR/themedef.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/SuiteR/js/style.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/SuiteR/js/jscolor.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/SuiteR/css/style.css
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/SuiteR/css/colourSelector.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/SuiteR/css/bootstrap.min.css
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/Suite7/tpls/_globalLinks.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/themes/Suite7/css/style.css
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/suitecrm_version.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/vCals/vCal.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Users/views/view.detail.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Users/tpls/EditViewFooter.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Users/language/ru_ru.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Users/language/es_es.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Users/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Users/Logout.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Users/GeneratePassword.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/UserPreferences/UserPreference.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/UpgradeWizard/silentUpgrade_step2.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/UpgradeWizard/end.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/SchedulersJobs/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Schedulers/language/ru_ru.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Schedulers/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Schedulers/Scheduler.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/ProspectLists/ProspectList.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Opportunities/SaveOverload.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Notes/vardefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/ModuleBuilder/tpls/MBModule/vardef.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/ModuleBuilder/tpls/LayoutEditor.css
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/ModuleBuilder/language/ru_ru.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/ModuleBuilder/language/es_es.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/ModuleBuilder/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/ModuleBuilder/javascript/ModuleBuilder.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/ModuleBuilder/MB/MBModule.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Meetings/views/view.edit.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Meetings/tpls/footer.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Meetings/metadata/additionalDetails.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Meetings/jsclass_scheduler.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Leads/views/view.convertlead.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Leads/metadata/detailviewdefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Leads/metadata/additionalDetails.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Emails/EditViewArchive.html
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Emails/EditView.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/DynamicFields/templates/Fields/TemplateField.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/DynamicFields/templates/Fields/Forms/coreBottom.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/DynamicFields/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/DynamicFields/FieldsMetaData.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/DynamicFields/DynamicField.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Contacts/vardefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Contacts/metadata/detailviewdefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Contacts/metadata/additionalDetails.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Connectors/InstallDefaultConnectors.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Configurator/tpls/EditView.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Configurator/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Configurator/UploadFileCheck.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Configurator/Configurator.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Campaigns/tpls/WizardCampaignTargetListForNonNewsLetter.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/CampaignLog/CampaignLog.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Calls/metadata/additionalDetails.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Calendar/Calendar.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Calendar/Cal.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Administration/views/view.globalsearchsettings.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Administration/templates/themeConfigSettings.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/Accounts/metadata/detailviewdefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_WorkFlow/vardefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_WorkFlow/metadata/editviewdefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_WorkFlow/metadata/detailviewdefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_WorkFlow/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_WorkFlow/controller.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_WorkFlow/aow_utils.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_WorkFlow/AOW_WorkFlow.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_Conditions/conditionLines.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_Actions/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_Actions/actions/actionSendEmail.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_Actions/actions/actionCreateRecord.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOW_Actions/AOW_Action.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOS_Quotes/createOpportunity.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOS_Products_Quotes/Line_Items.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOS_Products_Quotes/AOS_Utils.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOS_Product_Categories/vardefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOS_PDF_Templates/formLetter.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOS_PDF_Templates/PDF_Lib/config.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOS_Contracts/AOS_Contracts.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOR_Reports/tpls/report.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOR_Reports/controller.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOR_Reports/aor_utils.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOR_Reports/Dashlets/AORReportsDashlet/dashletConfigure.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOR_Reports/Dashlets/AORReportsDashlet/dashlet.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOR_Reports/Dashlets/AORReportsDashlet/AORReportsDashlet.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOR_Reports/AOR_Report.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOR_Conditions/conditionLines.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOR_Conditions/AOR_Condition.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOR_Charts/AOR_Chart.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOP_Case_Updates/Case_Updates.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOP_Case_Updates/CaseUpdatesHook.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOP_Case_Updates/AOP_Case_Updates.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AOD_Index/AOD_Index.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AM_TaskTemplates/vardefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AM_ProjectTemplates/vardefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/modules/AM_ProjectTemplates/controller.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/jssource/src_files/modules/Meetings/jsclass_scheduler.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/jssource/src_files/include/javascript/sugar_3.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/jssource/src_files/include/javascript/quickCompose.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/jssource/src_files/include/javascript/jsclass_async.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/jssource/JSGroupings.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/install/suite_install/suite_install.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/install/suite_install/AdvancedOpenPortal.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/install/suite_install/AdvancedOpenDiscovery.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/install/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/install/install_utils.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/install/checkDBSettings.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/utils/sugar_file_utils.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/utils/layout_utils.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/utils/file_utils.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/utils/autoloader.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/utils.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/nusoap/nusoap.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/modules.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/language/es_es.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/javascript/sugar_3.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/javascript/quickCompose.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/javascript/jsclass_async.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/javascript/jsAlerts.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/javascript/jquery/bootstrap.min.js
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/generic/SugarWidgets/SugarWidgetSubPanelTopButton.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/generic/SugarWidgets/SugarWidgetSubPanelTopArchiveEmailButton.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/generic/SugarWidgets/SugarWidgetSubPanelRemoveButton.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/formbase.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/database/DBManager.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/SugarTheme/SugarTheme.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/SugarFields/Fields/Image/EditView.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/SubPanel/SubPanelTiles.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/SearchForm/SearchForm2.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/Popups/tpls/footer.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/MVC/SugarApplication.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/ListView/ListViewSmarty.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/ListView/ListViewGeneric.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/HTMLPurifier/HTMLPurifier.standalone.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/DetailView/DetailView2.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/include/DetailView/DetailView.tpl
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/modules/SugarFeed/Dashlets/SugarFeedDashlet/SugarFeedDashlet.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/modules/Project/chart.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/modules/Home/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/modules/Home/About.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/modules/Connectors/metadata/searchdefs.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/modules/Connectors/metadata/display_config.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/modules/Connectors/metadata/connectors.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/modules/Connectors/connectors/sources/ext/rest/twitter/language/en_us.lang.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/modules/Calls/reschedule_history.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/include/social/twitter/twitter_helper.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/include/social/get_feed_data.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/include/social/facebook/facebook_sdk/src/facebook.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/include/social/facebook/facebook_sdk/src/base_facebook.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/include/social/facebook/facebook.class.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/include/generic/SugarWidgets/SugarWidgetSubPanelSendInvitesButton.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/include/MySugar/MySugar.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/modules/Schedulers/Ext/ScheduledTasks/AORScheduler.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/modules/Schedulers/Ext/ScheduledTasks/AOPScheduler.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/modules/Schedulers/Ext/Language/ru_ru.AdvancedOpenPortal.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/modules/Schedulers/Ext/Language/es_es.AdvancedOpenPortal.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/modules/Schedulers/Ext/Language/en_us.AdvancedOpenPortal.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/modules/Contacts/Ext/Language/en_us.customaop_case_updates_contacts.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/modules/Calls/Ext/Language/ru_ru.Reschedule.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/modules/Calls/Ext/Language/es_es.Reschedule.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/modules/Calls/Ext/Language/en_us.Reschedule.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/modules/Administration/Ext/Language/en_us.colourAdmin.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/application/Ext/Language/pt_br.SecurityGroups.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/application/Ext/Language/it_it.SecurityGroups.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/application/Ext/Language/fr_FR.SecurityGroups.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/application/Ext/Language/es_es.SecurityGroups.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/application/Ext/Language/en_us.GanttChartPro.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/application/Ext/Language/en_us.AdvancedOpenWorkflow.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Backing up file: /home/supportv/public_html/custom/Extension/application/Ext/Language/en_us.AdvancedOpenReports.php
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - file backup done.
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - Running pre_install()...
+Tue, 13 Oct 2015 03:14:58 -0500 [UpgradeWizard] - pre_install() done.
+Tue, 13 Oct 2015 03:14:59 -0500 [UpgradeWizard] - Commit step finished SugarMerge run with the following results:Array
+(
+    [Leads] => Array
+        (
+            [detailviewdefs.php] => 1
+        )
+
+    [Prospects] => Array
+        (
+        )
+
+    [Contacts] => Array
+        (
+        )
+
+    [ACLRoles] => Array
+        (
+        )
+
+    [AOS_PDF_Templates] => Array
+        (
+        )
+
+    [ProjectTask] => Array
+        (
+        )
+
+    [Cases] => Array
+        (
+        )
+
+    [Connectors] => Array
+        (
+        )
+
+    [Accounts] => Array
+        (
+            [detailviewdefs.php] => 1
+        )
+
+    [Project] => Array
+        (
+        )
+
+    [SugarFeed] => Array
+        (
+        )
+
+    [Users] => Array
+        (
+        )
+
+)
+
+Tue, 13 Oct 2015 03:14:59 -0500 [UpgradeWizard] - Starting file copy process...
+Tue, 13 Oct 2015 03:14:59 -0500 [UpgradeWizard] - File copy done.
+Tue, 13 Oct 2015 03:14:59 -0500 [UpgradeWizard] - Starting post_install()...
+Tue, 13 Oct 2015 03:14:59 -0500 [UpgradeWizard] - Entered post_install function.
+Tue, 13 Oct 2015 03:14:59 -0500 [UpgradeWizard] - Upgrading the database from 6.5.20 to version 
+Tue, 13 Oct 2015 03:14:59 -0500 [UpgradeWizard] - Running SQL file /home/supportv/public_html/cache/upgrades/temp/VDvjk7/scripts/65x_to__mysql.sql
+Tue, 13 Oct 2015 03:14:59 -0500 [UpgradeWizard] - *** ERROR: Schema change script [/home/supportv/public_html/cache/upgrades/temp/VDvjk7/scripts/65x_to__mysql.sql] could not be found!
+Tue, 13 Oct 2015 03:14:59 -0500 [UpgradeWizard] - Rebuilding JS Langauages
+Tue, 13 Oct 2015 03:14:59 -0500 [UpgradeWizard] - Rebuilding Dashlets
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - At updateVersions()... updating config table and sugar_version.php.
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - *** ERROR: no sugar_version.php file location found! - cannot complete upgrade...
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - Performing UWrebuild()...
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - Registering rebuild record: DELETE FROM versions WHERE name='Rebuild Extensions'
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - Rebuild done.
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - Registering rebuild record in versions table: INSERT INTO versions (id, deleted, date_entered, date_modified, modified_user_id, created_by, name, file_version, db_version) VALUES ('571bb83a-2453-e6bf-105a-561cbdfc705c', '0', '2015-10-13 08:15:04', '2015-10-13 08:15:04', '1', '1', 'Rebuild Extensions', '4.0.0', '4.0.0')
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - UWrebuild() done.
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - post_install() done.
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - check if current_db_version in $_SESSION equals target_db_version in $_SESSION
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - finished check to see if current_db_version in $_SESSION equals target_db_version in $_SESSION
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - running deleteChance() function
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - running deleteCache() function
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - call addNewSystemTabsFromUpgrade(upload://upgrades/patch/SuiteCRM-Upgrade-7.2.x-to-7.3.1-restore)
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - check to see if new modules exist
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - new modules to add are array (
+)
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - module tabs updated
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - finished addNewSystemTabsFromUpgrade
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - Registering upgrade with UpgradeHistory
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - Resetting error_reporting() to system level.
+Tue, 13 Oct 2015 03:15:04 -0500 [UpgradeWizard] - Rebuilding style js file: cache/themes/SuiteR/js/style-min.js
+Tue, 13 Oct 2015 03:15:05 -0500 [UpgradeWizard] - Rebuilding language cache
+Tue, 13 Oct 2015 03:15:23 -0500 [UpgradeWizard] - setting session variables...
+Tue, 13 Oct 2015 03:15:23 -0500 [UpgradeWizard] - Upgrade Wizard At Layout Commits
+Tue, 13 Oct 2015 03:15:23 -0500 [UpgradeWizard] - Layout Commits about to show selection table
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - setting session variables...
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Upgrade Wizard At Layout Commits
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits examining modules to revert
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, selected modules by user: Array
+(
+    [0] => Leads
+    [1] => Accounts
+)
+
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Adding Prospects module to rollback list.
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Adding Contacts module to rollback list.
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Adding ACLRoles module to rollback list.
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Adding AOS_PDF_Templates module to rollback list.
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Adding ProjectTask module to rollback list.
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Adding Cases module to rollback list.
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Adding Connectors module to rollback list.
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Adding Project module to rollback list.
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Adding SugarFeed module to rollback list.
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Adding Users module to rollback list.
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits will rollback the following modules: Array
+(
+    [Prospects] => Array
+        (
+        )
+
+    [Contacts] => Array
+        (
+        )
+
+    [ACLRoles] => Array
+        (
+        )
+
+    [AOS_PDF_Templates] => Array
+        (
+        )
+
+    [ProjectTask] => Array
+        (
+        )
+
+    [Cases] => Array
+        (
+        )
+
+    [Connectors] => Array
+        (
+        )
+
+    [Project] => Array
+        (
+        )
+
+    [SugarFeed] => Array
+        (
+        )
+
+    [Users] => Array
+        (
+        )
+
+)
+
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits merged the following modules: Array
+(
+    [Leads] => Array
+        (
+            [detailviewdefs.php] => 1
+        )
+
+    [Accounts] => Array
+        (
+            [detailviewdefs.php] => 1
+        )
+
+)
+
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, starting rollback
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, iterating over module:Prospects
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, iterating over module:Contacts
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, iterating over module:ACLRoles
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, iterating over module:AOS_PDF_Templates
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, iterating over module:ProjectTask
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, iterating over module:Cases
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, iterating over module:Connectors
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, iterating over module:Project
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, iterating over module:SugarFeed
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits, iterating over module:Users
+Tue, 13 Oct 2015 03:15:32 -0500 [UpgradeWizard] - Layout Commits completed successfully
+Tue, 13 Oct 2015 03:15:39 -0500 [UpgradeWizard] - setting session variables...
+Tue, 13 Oct 2015 03:15:45 -0500 [UpgradeWizard] - [At end.php]
+Tue, 13 Oct 2015 03:15:45 -0500 [UpgradeWizard] - About to repair the database.
+Tue, 13 Oct 2015 03:15:49 -0500 [UpgradeWizard] - Running sql:/* Table : alerts */
+/* MISSING TABLE: alerts */
+CREATE TABLE alerts (id char(36)  NOT NULL ,name varchar(255)  NULL ,date_entered datetime  NULL ,date_modified datetime  NULL ,modified_user_id char(36)  NULL ,created_by char(36)  NULL ,description text  NULL ,deleted bool  DEFAULT '0' NULL ,assigned_user_id char(36)  NULL ,is_read bool  NULL ,target_module varchar(255)  NULL ,type varchar(255)  NULL ,url_redirect varchar(255)  NULL  , PRIMARY KEY (id)) CHARACTER SET utf8 COLLATE utf8_general_ci
+
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] - Running sql:/* Table : aow_workflow */
+/*COLUMNS*/
+/*MISMATCH WITH DATABASE - run_when -  ROW [name] => 'run_when'  [type] => 'varchar'  [len] => '100'  [default] => 'Create'  */
+/* VARDEF - run_when -  ROW[required] => ''  [name] => 'run_when'  [vname] => 'LBL_RUN_WHEN'  [type] => 'varchar'  [massupdate] => '0'  [default] => 'Always'  [comments] => ''  [help] => ''  [importable] => 'true'  [duplicate_merge] => 'disabled'  [duplicate_merge_dom_value] => '0'  [audited] => ''  [reportable] => '1'  [unified_search] => ''  [merge_filter] => 'disabled'  [len] => '100'  [size] => '20'  [options] => 'aow_run_when_list'  [studio] => 'visible'  [dependency] => ''  [dbType] => 'enum'  */
+/* INDEXES */
+ALTER TABLE aow_workflow   modify COLUMN run_when varchar(100)  DEFAULT 'Always' NULL 
+
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] - database repaired
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] -  Start Rebuilding the config file again
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] -  Finish Rebuilding the config file again
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] - Begin upgrade_connectors
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] - Success :Copying file to destination: /home/supportv/public_html/modules/Connectors/connectors/formatters/ext/rest/linkedin/tpls
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] - Success :Copying file to destination: /home/supportv/public_html/modules/Connectors/connectors/formatters/ext/rest/linkedin
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] - Success :Copying file to destination: /home/supportv/public_html/modules/Connectors/connectors/sources/ext/rest/linkedin/language
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] - Success :Copying file to destination: /home/supportv/public_html/modules/Connectors/connectors/sources/ext/rest/linkedin
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] - Success :Copying file to destination: /home/supportv/public_html/custom/modules/Connectors/connectors/sources/ext/rest/linkedin
+Tue, 13 Oct 2015 03:15:50 -0500 [UpgradeWizard] - End upgrade_connectors
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - Running UpgradeRemoval instance UpgradeRemoval65x
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - Files will be backed up to custom/backup
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Accounts/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/ACLActions/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Administration/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Bugs/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Calendar/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Calls/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Campaigns/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Cases/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Contacts/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Documents/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Emails/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/EmailTemplates/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Leads/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Meetings/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/ModuleBuilder/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Notes/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Opportunities/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Project/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/ProjectTask/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/ProspectLists/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Prospects/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Tasks/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Users/Ext/Language/ru_ru.lang.ext.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Administration/colourAdmin.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/modules/Administration/colourAdmin.tpl
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Accounts/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/ACLActions/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Administration/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Bugs/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Calendar/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Calls/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Campaigns/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Cases/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Contacts/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Documents/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Emails/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/EmailTemplates/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Leads/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Meetings/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/ModuleBuilder/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Notes/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Opportunities/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Project/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/ProjectTask/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/ProspectLists/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Prospects/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Tasks/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Users/Ext/Language/ru_ru.SecurityGroups.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Administration/Ext/Administration/colourAdmin.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Contacts/Ext/Vardefs/sugarfield_facebook_username_c.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/Opportunities/Ext/Vardefs/sugarfield_textarea_c.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/FP_events/Ext/Layoutdefs/_overrideFP_events_subpanel_fp_events_fp_expenses_1.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/modules/FP_events/Ext/Layoutdefs/fp_events_fp_expenses_1_FP_events.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/Extension/application/EXT/LogicHooks/SugarFTSHooks.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/themes/default/images/icon_Jjwg_Maps.gif
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/themes/default/images/icon_jjwg_Maps.gif
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/themes/default/images/icon_Jjwg_Maps.png
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - custom/themes/default/images/icon_jjwg_Maps.png
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - mobile/js/quickcrm-utils.min.js
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - mobile/js/quickcrm-ce-3.0.0.min.js
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - mobile/js/quickcrm-ce-3.2.2.min.js
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/AOD_Index/Dashlets/AOD_IndexDashlet/AOD_IndexDashlet.meta.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/AOD_Index/Dashlets/AOD_IndexDashlet/AOD_IndexDashlet.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/AOD_IndexEvent/Dashlets/AOD_IndexEventDashlet/AOD_IndexEventDashlet.meta
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/AOD_IndexEvent/Dashlets/AOD_IndexEventDashlet/AOD_IndexEventDashlet.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/AOD_Index/metadata/studio.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/AOD_IndexEvent/metadata/studio.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/formatters/ext/rest/linkedin
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/formatters/ext/rest/linkedin/tpls
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/formatters/ext/rest/linkedin/tpls/default.tpl
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/formatters/ext/rest/linkedin/tpls/linkedin.gif
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/formatters/ext/rest/linkedin/linkedin.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/language
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/language/en_us.lang.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/language/es_es.lang.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/language/ru_ru.lang.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/config.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/linkedin.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/mapping.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/vardefs.php
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - themes/SuiteR/images/backtotop.png
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - themes/SuiteR/js/bootstrap.js
+Tue, 13 Oct 2015 03:15:51 -0500 [UpgradeWizard] - include/images/sugarcrm_login.png
+Tue, 13 Oct 2015 03:16:12 -0500 [UpgradeWizard] - Cleaning up the session.  Goodbye.
+Tue, 13 Oct 2015 03:16:12 -0500 [UpgradeWizard] - at unlinkUWTempFiles()
+Tue, 13 Oct 2015 03:16:13 -0500 [UpgradeWizard] - finished!
+Tue, 13 Oct 2015 03:16:13 -0500 [UpgradeWizard] - Cleaning up the session.  Goodbye.
+Tue, 13 Oct 2015 03:16:13 -0500 [UpgradeWizard] - resetting $_SESSION
+Wed, 04 Nov 2015 09:36:51 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:36:51 +0100 [UpgradeWizard] - -----------------------------------------------------------------------------
+Wed, 04 Nov 2015 09:36:51 +0100 [UpgradeWizard] - Upgrade started. At start.php
+Wed, 04 Nov 2015 09:36:51 +0100 [UpgradeWizard] - at unlinkUWTempFiles()
+Wed, 04 Nov 2015 09:36:51 +0100 [UpgradeWizard] - finished!
+Wed, 04 Nov 2015 09:36:51 +0100 [UpgradeWizard] - resetting $_SESSION
+Wed, 04 Nov 2015 09:36:55 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:36:55 +0100 [UpgradeWizard] - [At systemCheck.php]
+Wed, 04 Nov 2015 09:36:55 +0100 [UpgradeWizard] - Starting file permission check...
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/pack/tmp_pack_hxTRuc] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/pack/tmp_pack_Btgjba] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/pack/pack-bd7291107860de957e3bf8ed3e6ec14e35bbd354.pack] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/pack/pack-bd7291107860de957e3bf8ed3e6ec14e35bbd354.idx] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/e5/04aa0f84407b8184e532934c3533a8b8407cf3] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/d4/bc5f0da93cf5e2f70b4b62c0a63ad8b103d6d0] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/d2/bd6c7bdd3d542d47eec24e9360869e060b2902] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/a5/ee56801e4a5ac6f4bb50e9d71cdb80dc4b3b1d] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/9b/763ea4a5bfadf9f6f61be0c111c14e3b148181] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/94/00348a5d1a1545e45000cdeedea20ffdae3c42] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/91/4a3808ad3745045037cc3e136f40fa63cc43c6] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/89/cfaec39f0039fa2de51c2c4cfb241caf458fd9] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/80/45838769131a38510167ef8adcf1e147055c95] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/75/4937b380271d0d3b30c6e3bd911061a6ca8906] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/73/e2929022ed9fbd00df8f71bac67801ae1512e1] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/70/9a7d4a23a5c0f7a5e32da810148f321de429da] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/6e/2672107f8676e2b828b1b820e9e522116fd3d0] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/6d/1dea657770bb3066c9126230cfcfac86d8c129] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/68/3bd3119d38c6d1c5a9d92e49db9b7d31e21cc7] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/65/fcab265b1a0226b7486c50daa25698e88e7401] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/53/1202a53f451ab8c63bbd24d4822c3278d1e312] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/51/1ed03e529572c6850d0f99611a54d4c78266c0] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/4f/fc7de13509a1de5e1a2ca6aaa7b8a926a0de8c] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/43/c19291bb1df308d1d7da76afe7d3a60c492279] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/38/413a000389b0299036deff09d4004a626569d2] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/36/9767507674484874791554213c55480fad71f5] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/2e/f60aafe1ae9ba29a7f775d6c0c6a8478fc5302] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/24/c0d6a1b7f890ac5ed5c7881df2cbb7ca29f0f1] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/1a/98389938ed8ab44cb45e122883685b2449a4c3] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/0e/b966c72ca698ca6bb17792ef391f6db2924e80] not readable - saving for display
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - Finished file permission check.
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - Starting database permissions check...
+Wed, 04 Nov 2015 09:37:52 +0100 [UpgradeWizard] - Checking CREATE TABLE permissions...
+Wed, 04 Nov 2015 09:37:53 +0100 [UpgradeWizard] - Checking INSERT INTO permissions...
+Wed, 04 Nov 2015 09:37:53 +0100 [UpgradeWizard] - Checking UPDATE TABLE permissions...
+Wed, 04 Nov 2015 09:37:53 +0100 [UpgradeWizard] - Checking SELECT permissions...
+Wed, 04 Nov 2015 09:37:53 +0100 [UpgradeWizard] - Checking DELETE FROM permissions...
+Wed, 04 Nov 2015 09:37:54 +0100 [UpgradeWizard] - Checking ALTER TABLE ADD COLUMN permissions...
+Wed, 04 Nov 2015 09:37:56 +0100 [UpgradeWizard] - Checking ALTER TABLE CHANGE COLUMN permissions...
+Wed, 04 Nov 2015 09:37:57 +0100 [UpgradeWizard] - Checking ALTER TABLE DROP COLUMN permissions...
+Wed, 04 Nov 2015 09:37:58 +0100 [UpgradeWizard] - Checking DROP TABLE permissions...
+Wed, 04 Nov 2015 09:37:58 +0100 [UpgradeWizard] - No permissions errors found!
+Wed, 04 Nov 2015 09:37:58 +0100 [UpgradeWizard] - Finished database permissions check.
+Wed, 04 Nov 2015 09:46:53 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:46:53 +0100 [UpgradeWizard] - [At systemCheck.php]
+Wed, 04 Nov 2015 09:46:53 +0100 [UpgradeWizard] - Starting file permission check...
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/pack/tmp_pack_hxTRuc] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/pack/tmp_pack_Btgjba] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/pack/pack-bd7291107860de957e3bf8ed3e6ec14e35bbd354.pack] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/pack/pack-bd7291107860de957e3bf8ed3e6ec14e35bbd354.idx] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/e5/04aa0f84407b8184e532934c3533a8b8407cf3] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/d4/bc5f0da93cf5e2f70b4b62c0a63ad8b103d6d0] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/d2/bd6c7bdd3d542d47eec24e9360869e060b2902] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/a5/ee56801e4a5ac6f4bb50e9d71cdb80dc4b3b1d] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/9b/763ea4a5bfadf9f6f61be0c111c14e3b148181] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/94/00348a5d1a1545e45000cdeedea20ffdae3c42] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/91/4a3808ad3745045037cc3e136f40fa63cc43c6] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/89/cfaec39f0039fa2de51c2c4cfb241caf458fd9] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/80/45838769131a38510167ef8adcf1e147055c95] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/75/4937b380271d0d3b30c6e3bd911061a6ca8906] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/73/e2929022ed9fbd00df8f71bac67801ae1512e1] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/70/9a7d4a23a5c0f7a5e32da810148f321de429da] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/6e/2672107f8676e2b828b1b820e9e522116fd3d0] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/6d/1dea657770bb3066c9126230cfcfac86d8c129] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/68/3bd3119d38c6d1c5a9d92e49db9b7d31e21cc7] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/65/fcab265b1a0226b7486c50daa25698e88e7401] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/53/1202a53f451ab8c63bbd24d4822c3278d1e312] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/51/1ed03e529572c6850d0f99611a54d4c78266c0] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/4f/fc7de13509a1de5e1a2ca6aaa7b8a926a0de8c] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/43/c19291bb1df308d1d7da76afe7d3a60c492279] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/38/413a000389b0299036deff09d4004a626569d2] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/36/9767507674484874791554213c55480fad71f5] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/2e/f60aafe1ae9ba29a7f775d6c0c6a8478fc5302] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/24/c0d6a1b7f890ac5ed5c7881df2cbb7ca29f0f1] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/1a/98389938ed8ab44cb45e122883685b2449a4c3] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - WINDOWS: File [C:/xampp/htdocs/suite/.git/objects/0e/b966c72ca698ca6bb17792ef391f6db2924e80] not readable - saving for display
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - Finished file permission check.
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - Starting database permissions check...
+Wed, 04 Nov 2015 09:47:36 +0100 [UpgradeWizard] - Checking CREATE TABLE permissions...
+Wed, 04 Nov 2015 09:47:37 +0100 [UpgradeWizard] - Checking INSERT INTO permissions...
+Wed, 04 Nov 2015 09:47:37 +0100 [UpgradeWizard] - Checking UPDATE TABLE permissions...
+Wed, 04 Nov 2015 09:47:37 +0100 [UpgradeWizard] - Checking SELECT permissions...
+Wed, 04 Nov 2015 09:47:37 +0100 [UpgradeWizard] - Checking DELETE FROM permissions...
+Wed, 04 Nov 2015 09:47:37 +0100 [UpgradeWizard] - Checking ALTER TABLE ADD COLUMN permissions...
+Wed, 04 Nov 2015 09:47:38 +0100 [UpgradeWizard] - Checking ALTER TABLE CHANGE COLUMN permissions...
+Wed, 04 Nov 2015 09:47:39 +0100 [UpgradeWizard] - Checking ALTER TABLE DROP COLUMN permissions...
+Wed, 04 Nov 2015 09:47:40 +0100 [UpgradeWizard] - Checking DROP TABLE permissions...
+Wed, 04 Nov 2015 09:47:40 +0100 [UpgradeWizard] - No permissions errors found!
+Wed, 04 Nov 2015 09:47:40 +0100 [UpgradeWizard] - Finished database permissions check.
+Wed, 04 Nov 2015 09:48:46 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:48:46 +0100 [UpgradeWizard] - [At systemCheck.php]
+Wed, 04 Nov 2015 09:48:46 +0100 [UpgradeWizard] - Starting file permission check...
+Wed, 04 Nov 2015 09:49:28 +0100 [UpgradeWizard] - Finished file permission check.
+Wed, 04 Nov 2015 09:49:28 +0100 [UpgradeWizard] - Starting database permissions check...
+Wed, 04 Nov 2015 09:49:28 +0100 [UpgradeWizard] - Checking CREATE TABLE permissions...
+Wed, 04 Nov 2015 09:49:29 +0100 [UpgradeWizard] - Checking INSERT INTO permissions...
+Wed, 04 Nov 2015 09:49:29 +0100 [UpgradeWizard] - Checking UPDATE TABLE permissions...
+Wed, 04 Nov 2015 09:49:29 +0100 [UpgradeWizard] - Checking SELECT permissions...
+Wed, 04 Nov 2015 09:49:29 +0100 [UpgradeWizard] - Checking DELETE FROM permissions...
+Wed, 04 Nov 2015 09:49:29 +0100 [UpgradeWizard] - Checking ALTER TABLE ADD COLUMN permissions...
+Wed, 04 Nov 2015 09:49:30 +0100 [UpgradeWizard] - Checking ALTER TABLE CHANGE COLUMN permissions...
+Wed, 04 Nov 2015 09:49:31 +0100 [UpgradeWizard] - Checking ALTER TABLE DROP COLUMN permissions...
+Wed, 04 Nov 2015 09:49:31 +0100 [UpgradeWizard] - Checking DROP TABLE permissions...
+Wed, 04 Nov 2015 09:49:32 +0100 [UpgradeWizard] - No permissions errors found!
+Wed, 04 Nov 2015 09:49:32 +0100 [UpgradeWizard] - Finished database permissions check.
+Wed, 04 Nov 2015 09:50:21 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:50:21 +0100 [UpgradeWizard] - At upload.php
+Wed, 04 Nov 2015 09:50:21 +0100 [UpgradeWizard] - finding new files for upgrade
+Wed, 04 Nov 2015 09:50:21 +0100 [UpgradeWizard] - *** UW using [  ] as source for patch files.
+Wed, 04 Nov 2015 09:52:20 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:52:20 +0100 [UpgradeWizard] - At upload.php
+Wed, 04 Nov 2015 09:52:20 +0100 [UpgradeWizard] - running upload
+Wed, 04 Nov 2015 09:52:20 +0100 [UpgradeWizard] - File uploaded to upload://SuiteCRM-Upgrade-7.3.x-to-7.4.zip
+Wed, 04 Nov 2015 09:52:20 +0100 [UpgradeWizard] - extracting manifest.
+Wed, 04 Nov 2015 09:52:21 +0100 [UpgradeWizard] - validating manifest.php file
+Wed, 04 Nov 2015 09:52:21 +0100 [UpgradeWizard] - copying manifest.php to final destination.
+Wed, 04 Nov 2015 09:52:21 +0100 [UpgradeWizard] - zip file moved to [SuiteCRM-Upgrade-7.3.x-to-7.4.zip]
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleInstaller.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: ModuleInstall/ModuleInstaller.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/systemCheck.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: modules/UpgradeWizard/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: include/SugarTheme/SugarTheme.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: include/upload_file.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: include/upload_file.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - finding new files for upgrade
+Wed, 04 Nov 2015 09:52:22 +0100 [UpgradeWizard] - *** UW using [ upload://upgrades/patch/SuiteCRM-Upgrade-7.3.x-to-7.4.zip ] as source for patch files.
+Wed, 04 Nov 2015 09:52:35 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:52:35 +0100 [UpgradeWizard] - at preflight.php
+Wed, 04 Nov 2015 09:52:35 +0100 [UpgradeWizard] - unzipping files in upgrade archive...
+Wed, 04 Nov 2015 09:52:36 +0100 [UpgradeWizard] - verifying md5 checksums for files...
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/vCals/vCal.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/views/view.detail.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/authentication/SugarAuthenticate/SugarAuthenticate.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/UserSignature.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/User.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/Logout.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Users/Authenticate.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/UserPreferences/UserPreference.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Trackers/Tracker.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Tasks/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Tasks/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Tasks/Task.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/TableDictionary.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Studio/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Studio/language/en_us.Portal.html]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Schedulers/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Schedulers/Scheduler.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Relationships/Relationship.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ProspectLists/ProspectList.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ProjectTask/ProjectTask.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Project/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Project/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Project/Project.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Opportunities/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Opportunities/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Opportunities/Opportunity.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/OAuthTokens/OAuthToken.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Notes/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Notes/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Notes/Note.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/views/view.popupview.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/views/view.layoutview.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/tpls/listView.tpl]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/tpls/MBModule/vardef.tpl]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/tpls/MBModule/DeveloperClass.tpl]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/tpls/MBModule/Class.tpl]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/tpls/LayoutEditor.css]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/parsers/relationships/UndeployedRelationships.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/parsers/parser.label.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/javascript/ModuleBuilder.js]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/controller.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/Module/StudioModule.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ModuleBuilder/MB/MBLanguage.php]
+Wed, 04 Nov 2015 09:52:37 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/MergeRecords/MergeRecord.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Meetings/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Meetings/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Meetings/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Meetings/Meeting.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/MailMerge/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Leads/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Leads/metadata/detailviewdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Leads/metadata/convertdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Leads/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Leads/Lead.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/InboundEmail/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/InboundEmail/InboundEmail.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Import/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Home/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Home/DynamicAction.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Home/Dashlets/iFrameDashlet/iFrameDashlet.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Home/Dashlets/SugarNewsDashlet/SugarNewsDashlet.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Home/About.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Groups/Group.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Employees/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Employees/Employee.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Emails/EmailUI.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Emails/Email.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/EmailTemplates/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/EmailTemplates/EmailTemplateFormBase.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/EmailTemplates/EmailTemplate.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/EmailMarketing/EmailMarketing.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/EmailMan/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/EmailMan/EmailMan.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/EAPM/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/DynamicFields/templates/Fields/TemplateTextArea.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/DynamicFields/templates/Fields/TemplateRadioEnum.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/DynamicFields/templates/Fields/TemplateMultiEnum.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Documents/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Documents/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Documents/Document.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/DocumentRevisions/DocumentRevision.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Currencies/Currency.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Contacts/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Contacts/metadata/detailviewdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Contacts/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Contacts/Contact.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Connectors/InstallDefaultConnectors.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Configurator/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Cases/vardefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Cases/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Cases/metadata/editviewdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Cases/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Cases/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Cases/Case.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Campaigns/utils.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Campaigns/Campaign.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/CampaignTrackers/CampaignTracker.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/CampaignLog/CampaignLog.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Calls/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Calls/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Calls/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Calls/Call.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Bugs/Bug.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Audit/Audit.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Administration/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Accounts/metadata/subpaneldefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Accounts/metadata/searchdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Accounts/metadata/detailviewdefs.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Accounts/metadata/SearchFields.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Accounts/language/en_us.lang.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/Accounts/Account.php]
+Wed, 04 Nov 2015 09:52:38 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ACLRoles/ACLRole.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ACLActions/ACLAction.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./modules/ACL/ACLController.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./jssource/src_files/include/MySugar/javascript/MySugar.js]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./install/welcome.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./install/ready.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./install/performSetup.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./install/install_utils.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./install/installSystemCheck.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./install/install.css]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./install/dbConfig_a.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./install/checkDBSettings.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./install.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/utils/sugar_file_utils.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/utils/LogicHook.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/upload_file.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/tabs.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/phpmailer/class.phpmailer.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/language/en_us.notify_template.html]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/javascript/jquery/bootstrap.min.js]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/generic/SugarWidgets/SugarWidgetField.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/generic/SugarWidgets/SugarWidget.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/TemplateHandler/TemplateHandler.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarTheme/SugarTheme.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarPHPMailer.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarObjects/templates/person/Person.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarObjects/templates/file/views/view.edit.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarObjects/templates/company/Company.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarObjects/templates/basic/Dashlets/Dashlet/m-n-Dashlet.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarObjects/SugarConfig.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarObjects/LanguageManager.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarFields/Fields/Enum/SugarFieldEnum.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarFields/Fields/Datetimecombo/SugarFieldDatetimecombo.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SugarCharts/SugarChart.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SubPanel/SubPanelTiles.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/SearchForm/SearchForm2.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/MVC/View/ViewFactory.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/MVC/View/SugarView.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/MVC/SugarApplication.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/MVC/Controller/ControllerFactory.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/ListView/ListViewData.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/ListView/ListView.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/EditView/SugarVCR.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/DetailView/DetailView2.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/DetailView/DetailView.tpl]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./include/Dashlets/Dashlet.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./data/SugarBean.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./data/Relationships/One2MBeanRelationship.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - found a file with a differing md5: [./data/Relationships/M2MRelationship.php]
+Wed, 04 Nov 2015 09:52:39 +0100 [UpgradeWizard] - md5 verification done.
+Wed, 04 Nov 2015 09:52:40 +0100 [UpgradeWizard] - updating UpgradeWizard code: include/database/MysqlManager.php
+Wed, 04 Nov 2015 09:52:40 +0100 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Wed, 04 Nov 2015 09:52:40 +0100 [UpgradeWizard] - updating UpgradeWizard code: include/utils/sugar_file_utils.php
+Wed, 04 Nov 2015 09:52:40 +0100 [UpgradeWizard] - file preflight check passed successfully.
+Wed, 04 Nov 2015 09:52:40 +0100 [UpgradeWizard] - starting schema preflight check...
+Wed, 04 Nov 2015 09:52:40 +0100 [UpgradeWizard] - looking for schema script at: C:/xampp/htdocs/suite/cache/upgrades/temp/461.tmp/scripts/650_to_740_mysql.sql
+Wed, 04 Nov 2015 09:52:40 +0100 [UpgradeWizard] - no schema script found - all schema preflight skipped
+Wed, 04 Nov 2015 09:52:40 +0100 [UpgradeWizard] - schema preflight done.
+Wed, 04 Nov 2015 09:52:45 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:52:45 +0100 [UpgradeWizard] - [At commit.php]
+Wed, 04 Nov 2015 09:52:45 +0100 [UpgradeWizard] - Setting error_reporting() to E_ERROR while running upgrade
+Wed, 04 Nov 2015 09:52:45 +0100 [UpgradeWizard] - backing up files to be overwritten...
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/tpls/footer.tpl
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/tpls/_headerModuleList.tpl
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/themedef.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/js/jscolor.js
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/images/jscolor/hv.png
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/images/jscolor/hs.png
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/images/jscolor/cross.gif
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/images/jscolor/arrow.gif
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/images/backtotop.gif
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/images/FavoriteReports.gif
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/fonts/glyphicons-halflings-regular.woff2
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/css/style.css
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/css/colourSelector.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/SuiteR/css/bootstrap.min.css
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/Suite7/tpls/footer.tpl
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/Suite7/themedef.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/Suite7/css/style.css
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/themes/Suite7/css/colourSelector.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/suitecrm_version.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/vCals/vCal.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/jjwg_Maps/language/pt_br.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/jjwg_Maps/language/ge_ge.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/jjwg_Maps/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/jjwg_Maps/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/jjwg_Areas/jjwg_Areas.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Users/views/view.detail.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Users/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Users/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Users/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Users/authentication/SugarAuthenticate/SugarAuthenticate.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Users/UserSignature.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Users/User.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Users/Logout.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Users/Authenticate.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/UserPreferences/UserPreference.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/UpgradeWizard/systemCheck.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/UpgradeWizard/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Trackers/Tracker.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Tasks/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Tasks/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Tasks/Task.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/TableDictionary.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/SugarFeed/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Studio/language/ru_ru.Portal.html
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Studio/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Studio/language/es_es.Portal.html
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Studio/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Studio/language/en_us.Portal.html
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/SecurityGroups/language/nl_NL.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/SecurityGroups/language/it_it.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/SecurityGroups/language/hu_hu.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/SecurityGroups/language/ge_ge.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/SecurityGroups/language/fr_FR.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/SecurityGroups/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/SecurityGroups/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/SecurityGroups/language/de_de.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/SecurityGroups/SecurityGroup.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Schedulers/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Schedulers/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Schedulers/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Schedulers/Scheduler.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Relationships/Relationship.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ProspectLists/ProspectList.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ProjectTask/ProjectTask.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Project/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Project/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Project/Project.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Opportunities/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Opportunities/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Opportunities/Opportunity.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/OAuthTokens/OAuthToken.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Notes/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Notes/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Notes/Note.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/views/view.popupview.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/views/view.layoutview.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/tpls/listView.tpl
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/tpls/MBModule/vardef.tpl
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/tpls/MBModule/DeveloperClass.tpl
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/tpls/MBModule/Class.tpl
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/tpls/LayoutEditor.css
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/parsers/relationships/UndeployedRelationships.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/parsers/parser.label.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/javascript/ModuleBuilder.js
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/controller.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/Module/StudioModule.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ModuleBuilder/MB/MBLanguage.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/MergeRecords/MergeRecord.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Meetings/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Meetings/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Meetings/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Meetings/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Meetings/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Meetings/Meeting.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/MailMerge/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/MailMerge/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/MailMerge/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Leads/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Leads/metadata/detailviewdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Leads/metadata/convertdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Leads/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Leads/Lead.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/InboundEmail/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/InboundEmail/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/InboundEmail/InboundEmail.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Import/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Import/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Import/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Home/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Home/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Home/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Home/controller.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Home/DynamicAction.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Home/Dashlets/iFrameDashlet/iFrameDashlet.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Home/Dashlets/SugarNewsDashlet/SugarNewsDashlet.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Home/About.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Groups/Group.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/FP_events/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Employees/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Employees/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Employees/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Employees/Employee.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Emails/EmailUI.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Emails/Email.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EmailTemplates/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EmailTemplates/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EmailTemplates/EmailTemplateFormBase.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EmailTemplates/EmailTemplate.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EmailMarketing/EmailMarketing.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EmailMan/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EmailMan/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EmailMan/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EmailMan/EmailMan.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EAPM/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EAPM/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/EAPM/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/DynamicFields/templates/Fields/TemplateTextArea.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/DynamicFields/templates/Fields/TemplateRadioEnum.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/DynamicFields/templates/Fields/TemplateMultiEnum.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Documents/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Documents/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Documents/Document.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/DocumentRevisions/DocumentRevision.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Currencies/Currency.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Contacts/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Contacts/metadata/detailviewdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Contacts/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Contacts/Contact.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Connectors/InstallDefaultConnectors.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Configurator/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Configurator/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Configurator/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Cases/vardefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Cases/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Cases/metadata/editviewdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Cases/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Cases/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Cases/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Cases/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Cases/Case.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Campaigns/utils.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Campaigns/Campaign.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/CampaignTrackers/CampaignTracker.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/CampaignLog/CampaignLog.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Calls_Reschedule/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Calls/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Calls/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Calls/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Calls/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Calls/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Calls/Call.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Bugs/Bug.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Audit/Audit.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Administration/templates/themeConfigSettings.tpl
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Administration/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Administration/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Administration/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Accounts/metadata/subpaneldefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Accounts/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Accounts/metadata/detailviewdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Accounts/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Accounts/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Accounts/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Accounts/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/Accounts/Account.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOW_WorkFlow/controller.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOW_WorkFlow/AOW_WorkFlow.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOW_Actions/actions/actionSendEmail.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Quotes/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Quotes/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/sp_ve.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/pl_pl.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/nl_nl.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/it_it.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/ge_ge.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/fr_FR.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/fi_fi.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products_Quotes/language/de_de.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products/vardefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Products/AOS_Products.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_PDF_Templates/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_PDF_Templates/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_PDF_Templates/generatePdf.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Invoices/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Invoices/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Contracts/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Contracts/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOS_Contracts/AOS_Contracts.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOR_Scheduled_Reports/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOR_Scheduled_Reports/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOR_Reports/AOR_Report.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOR_Charts/AOR_Chart.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOD_IndexEvent/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOD_IndexEvent/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOD_Index/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOD_Index/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AOD_Index/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AM_TaskTemplates/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AM_TaskTemplates/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AM_ProjectTemplates/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/AM_ProjectTemplates/metadata/SearchFields.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ACLRoles/ACLRole.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ACLActions/ACLAction.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/modules/ACL/ACLController.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/jssource/src_files/modules/Alerts/alerts.js
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/jssource/src_files/include/MySugar/javascript/MySugar.js
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/welcome.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/ready.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/performSetup.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/install_utils.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/installSystemCheck.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/install.css
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/dbConfig_a.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install/checkDBSettings.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/install.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/utils/sugar_file_utils.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/utils/LogicHook.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/upload_file.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/tabs.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-zh_cn.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-zh.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-tr.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-se.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-ru.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-ro.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-pl.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-no.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-nl.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-ja.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-it.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-hu.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-fr.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-fo.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-fi.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-et.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-es.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-dk.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-de.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-cz.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-ch.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-ca.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-br.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/language/phpmailer.lang-ar.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/extras/htmlfilter.php
+Wed, 04 Nov 2015 09:52:46 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/class.smtp.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/class.phpmailer.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/phpmailer/LICENSE
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/modules.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/language/es_es.notify_template.html
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/language/es_es.lang.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/language/en_us.notify_template.html
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/language/en_us.lang.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/javascript/jquery/bootstrap.min.js
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/images/suitecrm_login.png
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/generic/SugarWidgets/SugarWidgetField.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/generic/SugarWidgets/SugarWidget.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/database/MysqlManager.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/TemplateHandler/TemplateHandler.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarTheme/SugarTheme.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarPHPMailer.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarObjects/templates/person/Person.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarObjects/templates/file/views/view.edit.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarObjects/templates/company/Company.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarObjects/templates/basic/Dashlets/Dashlet/m-n-Dashlet.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarObjects/SugarConfig.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarObjects/LanguageManager.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarFields/Fields/Enum/SugarFieldEnum.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarFields/Fields/Datetimecombo/SugarFieldDatetimecombo.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SugarCharts/SugarChart.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SubPanel/SubPanelTiles.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/shared.make_timestamp.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/shared.escape_special_chars.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/outputfilter.trimwhitespace.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.wordwrap.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.upper.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.truncate.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.strip_tags.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.strip.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.string_format.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.spacify.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.replace.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.regex_replace.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.nl2br.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.lower.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.indent.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.escape.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.default.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.debug_print_var.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.date_format.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.count_words.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.count_sentences.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.count_paragraphs.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.count_characters.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.cat.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/modifier.capitalize.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.popup_init.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.popup.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.math.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.mailto.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.html_table.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.html_select_time.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.html_select_date.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.html_radios.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.html_options.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.html_image.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.html_checkboxes.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.fetch.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.eval.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.debug.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.cycle.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.counter.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.config_load.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/function.assign_debug_info.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/compiler.assign.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/plugins/block.textformat.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.write_file.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.write_compiled_resource.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.write_compiled_include.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.write_cache_file.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.smarty_include_php.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.run_insert_handler.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.rmdir.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.rm_auto.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.read_cache_file.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.process_compiled_include.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.process_cached_inserts.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.load_resource_plugin.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.load_plugins.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.is_trusted.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.is_secure.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.get_php_resource.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.get_microtime.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.get_include_path.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.display_debug_console.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.create_dir_structure.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.assign_smarty_interface.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/internals/core.assemble_plugin_filepath.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/debug.tpl
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/Smarty_Compiler.class.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/Smarty.class.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Smarty/Config_File.class.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/SearchForm/SearchForm2.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/MySugar/javascript/MySugar.js
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/MVC/View/ViewFactory.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/MVC/View/SugarView.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/MVC/SugarApplication.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/MVC/Controller/ControllerFactory.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/ListView/ListViewData.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/ListView/ListView.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/InlineEditing/inlineEditing.js
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/InlineEditing/InlineEditing.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/EditView/SugarVCR.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/DetailView/DetailView2.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/DetailView/DetailView.tpl
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/include/Dashlets/Dashlet.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/data/SugarBean.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/data/Relationships/One2MBeanRelationship.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/data/Relationships/M2MRelationship.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/custom/modules/Home/DynamicAction.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/custom/modules/EmailTemplates/EditView.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/custom/modules/Connectors/metadata/searchdefs.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/custom/modules/Connectors/metadata/display_config.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/custom/include/social/facebook/facebook_sdk/src/facebook.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/custom/include/social/facebook/facebook_sdk/src/base_facebook.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/custom/Extension/modules/Calls/Ext/Language/es_es.Reschedule.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/custom/Extension/modules/Administration/Ext/Language/en_us.colourAdmin.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/custom/Extension/application/Ext/Language/ru_ru.suitecrm.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/custom/Extension/application/Ext/Language/en_us.suitecrm.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Backing up file: C:/xampp/htdocs/suite/ModuleInstall/ModuleInstaller.php
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - file backup done.
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - Running pre_install()...
+Wed, 04 Nov 2015 09:52:47 +0100 [UpgradeWizard] - pre_install() done.
+Wed, 04 Nov 2015 09:52:48 +0100 [UpgradeWizard] - Commit step finished SugarMerge run with the following results:Array
+(
+    [Accounts] => Array
+        (
+            [detailviewdefs.php] => 1
+        )
+
+    [ACLRoles] => Array
+        (
+        )
+
+    [AOS_PDF_Templates] => Array
+        (
+        )
+
+    [Cases] => Array
+        (
+            [editviewdefs.php] => 1
+        )
+
+    [Connectors] => Array
+        (
+        )
+
+    [Contacts] => Array
+        (
+            [detailviewdefs.php] => 1
+        )
+
+    [Leads] => Array
+        (
+            [detailviewdefs.php] => 1
+            [searchdefs.php] => 1
+        )
+
+    [Opportunities] => Array
+        (
+        )
+
+    [Project] => Array
+        (
+        )
+
+    [ProjectTask] => Array
+        (
+        )
+
+    [Prospects] => Array
+        (
+        )
+
+    [SugarFeed] => Array
+        (
+        )
+
+    [Users] => Array
+        (
+        )
+
+)
+
+Wed, 04 Nov 2015 09:52:48 +0100 [UpgradeWizard] - Starting file copy process...
+Wed, 04 Nov 2015 09:52:49 +0100 [UpgradeWizard] - File copy done.
+Wed, 04 Nov 2015 09:52:49 +0100 [UpgradeWizard] - Starting post_install()...
+Wed, 04 Nov 2015 09:52:49 +0100 [UpgradeWizard] - Entered post_install function.
+Wed, 04 Nov 2015 09:52:49 +0100 [UpgradeWizard] - Upgrading the database from 6.5.20 to version 
+Wed, 04 Nov 2015 09:52:49 +0100 [UpgradeWizard] - Running SQL file C:/xampp/htdocs/suite/cache/upgrades/temp/461.tmp/scripts/65x_to__mysql.sql
+Wed, 04 Nov 2015 09:52:49 +0100 [UpgradeWizard] - *** ERROR: Schema change script [C:/xampp/htdocs/suite/cache/upgrades/temp/461.tmp/scripts/65x_to__mysql.sql] could not be found!
+Wed, 04 Nov 2015 09:52:49 +0100 [UpgradeWizard] - Rebuilding JS Langauages
+Wed, 04 Nov 2015 09:52:49 +0100 [UpgradeWizard] - Rebuilding Dashlets
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - At updateVersions()... updating config table and sugar_version.php.
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - *** ERROR: no sugar_version.php file location found! - cannot complete upgrade...
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - Performing UWrebuild()...
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - Registering rebuild record: DELETE FROM versions WHERE name='Rebuild Extensions'
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - Rebuild done.
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - Registering rebuild record in versions table: INSERT INTO versions (id, deleted, date_entered, date_modified, modified_user_id, created_by, name, file_version, db_version) VALUES ('af6a5df1-7642-5d82-7bcc-5639c7439f42', '0', '2015-11-04 08:52:53', '2015-11-04 08:52:53', '1', '1', 'Rebuild Extensions', '4.0.0', '4.0.0')
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - UWrebuild() done.
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - post_install() done.
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - check if current_db_version in $_SESSION equals target_db_version in $_SESSION
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - finished check to see if current_db_version in $_SESSION equals target_db_version in $_SESSION
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - running deleteChance() function
+Wed, 04 Nov 2015 09:52:53 +0100 [UpgradeWizard] - running deleteCache() function
+Wed, 04 Nov 2015 09:52:55 +0100 [UpgradeWizard] - call addNewSystemTabsFromUpgrade(upload://upgrades/patch/SuiteCRM-Upgrade-7.3.x-to-7.4-restore)
+Wed, 04 Nov 2015 09:52:55 +0100 [UpgradeWizard] - check to see if new modules exist
+Wed, 04 Nov 2015 09:52:55 +0100 [UpgradeWizard] - new modules to add are array (
+  'AOK_Knowledge_Base_Categories' => 'AOK_Knowledge_Base_Categories',
+  'AOK_KnowledgeBase' => 'AOK_KnowledgeBase',
+)
+Wed, 04 Nov 2015 09:52:56 +0100 [UpgradeWizard] - module tabs updated
+Wed, 04 Nov 2015 09:52:56 +0100 [UpgradeWizard] - finished addNewSystemTabsFromUpgrade
+Wed, 04 Nov 2015 09:52:56 +0100 [UpgradeWizard] - Registering upgrade with UpgradeHistory
+Wed, 04 Nov 2015 09:52:57 +0100 [UpgradeWizard] - Resetting error_reporting() to system level.
+Wed, 04 Nov 2015 09:52:57 +0100 [UpgradeWizard] - Rebuilding style js file: cache/themes/SuiteR/js\style-min.js
+Wed, 04 Nov 2015 09:52:57 +0100 [UpgradeWizard] - Rebuilding language cache
+Wed, 04 Nov 2015 09:56:15 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:56:15 +0100 [UpgradeWizard] - Upgrade Wizard At Layout Commits
+Wed, 04 Nov 2015 09:56:15 +0100 [UpgradeWizard] - Layout Commits about to show selection table
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Upgrade Wizard At Layout Commits
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits examining modules to revert
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, selected modules by user: Array
+(
+    [0] => Accounts
+    [1] => Cases
+    [2] => Contacts
+    [3] => Leads
+)
+
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Adding ACLRoles module to rollback list.
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Adding AOS_PDF_Templates module to rollback list.
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Adding Connectors module to rollback list.
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Adding Opportunities module to rollback list.
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Adding Project module to rollback list.
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Adding ProjectTask module to rollback list.
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Adding Prospects module to rollback list.
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Adding SugarFeed module to rollback list.
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Adding Users module to rollback list.
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits will rollback the following modules: Array
+(
+    [ACLRoles] => Array
+        (
+        )
+
+    [AOS_PDF_Templates] => Array
+        (
+        )
+
+    [Connectors] => Array
+        (
+        )
+
+    [Opportunities] => Array
+        (
+        )
+
+    [Project] => Array
+        (
+        )
+
+    [ProjectTask] => Array
+        (
+        )
+
+    [Prospects] => Array
+        (
+        )
+
+    [SugarFeed] => Array
+        (
+        )
+
+    [Users] => Array
+        (
+        )
+
+)
+
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits merged the following modules: Array
+(
+    [Accounts] => Array
+        (
+            [detailviewdefs.php] => 1
+        )
+
+    [Cases] => Array
+        (
+            [editviewdefs.php] => 1
+        )
+
+    [Contacts] => Array
+        (
+            [detailviewdefs.php] => 1
+        )
+
+    [Leads] => Array
+        (
+            [detailviewdefs.php] => 1
+            [searchdefs.php] => 1
+        )
+
+)
+
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, starting rollback
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, iterating over module:ACLRoles
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, iterating over module:AOS_PDF_Templates
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, iterating over module:Connectors
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, iterating over module:Opportunities
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, iterating over module:Project
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, iterating over module:ProjectTask
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, iterating over module:Prospects
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, iterating over module:SugarFeed
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits, iterating over module:Users
+Wed, 04 Nov 2015 09:56:19 +0100 [UpgradeWizard] - Layout Commits completed successfully
+Wed, 04 Nov 2015 09:56:24 +0100 [UpgradeWizard] - setting session variables...
+Wed, 04 Nov 2015 09:56:53 +0100 [UpgradeWizard] - [At end.php]
+Wed, 04 Nov 2015 09:56:53 +0100 [UpgradeWizard] - About to repair the database.
+Wed, 04 Nov 2015 09:57:24 +0100 [UpgradeWizard] - Running sql:/* Table : favorites */
+/* MISSING TABLE: favorites */
+CREATE TABLE favorites (id char(36)  NOT NULL ,name varchar(255)  NULL ,date_entered datetime  NULL ,date_modified datetime  NULL ,modified_user_id char(36)  NULL ,created_by char(36)  NULL ,description text  NULL ,deleted bool  DEFAULT '0' NULL ,assigned_user_id char(36)  NULL ,parent_id char(36)  NULL ,parent_type varchar(255)  NULL  , PRIMARY KEY (id)) CHARACTER SET utf8 COLLATE utf8_general_ci
+
+Wed, 04 Nov 2015 09:57:24 +0100 [UpgradeWizard] - Running sql:/* Table : aok_knowledge_base_categories */
+/* MISSING TABLE: aok_knowledge_base_categories */
+CREATE TABLE aok_knowledge_base_categories (id char(36)  NOT NULL ,name varchar(255)  NULL ,date_entered datetime  NULL ,date_modified datetime  NULL ,modified_user_id char(36)  NULL ,created_by char(36)  NULL ,description text  NULL ,deleted bool  DEFAULT '0' NULL ,assigned_user_id char(36)  NULL  , PRIMARY KEY (id)) CHARACTER SET utf8 COLLATE utf8_general_ci
+
+Wed, 04 Nov 2015 09:57:24 +0100 [UpgradeWizard] - Creating audit table:aok_knowledge_base_categories_audit
+Wed, 04 Nov 2015 09:57:25 +0100 [UpgradeWizard] - Running sql:/* Table : aok_knowledgebase */
+/* MISSING TABLE: aok_knowledgebase */
+CREATE TABLE aok_knowledgebase (id char(36)  NOT NULL ,name varchar(255)  NULL ,date_entered datetime  NULL ,date_modified datetime  NULL ,modified_user_id char(36)  NULL ,created_by char(36)  NULL ,description text  NULL ,deleted bool  DEFAULT '0' NULL ,assigned_user_id char(36)  NULL ,status varchar(100)  DEFAULT 'Draft' NULL ,revision varchar(255)  NULL ,additional_info text  NULL ,user_id_c char(36)  NULL ,user_id1_c char(36)  NULL  , PRIMARY KEY (id)) CHARACTER SET utf8 COLLATE utf8_general_ci
+
+Wed, 04 Nov 2015 09:57:25 +0100 [UpgradeWizard] - Creating audit table:aok_knowledgebase_audit
+Wed, 04 Nov 2015 09:57:35 +0100 [UpgradeWizard] - Running sql:/* Table : aok_knowledgebase_categories */
+/* MISSING TABLE: aok_knowledgebase_categories */
+CREATE TABLE aok_knowledgebase_categories (id varchar(36)  NOT NULL ,date_modified datetime  NULL ,deleted bool  DEFAULT '0' NULL ,aok_knowledgebase_id varchar(36)  NULL ,aok_knowledge_base_categories_id varchar(36)  NULL  , PRIMARY KEY (id),   KEY aok_knowledgebase_categories_alt (aok_knowledgebase_id, aok_knowledge_base_categories_id)) CHARACTER SET utf8 COLLATE utf8_general_ci
+
+Wed, 04 Nov 2015 09:57:35 +0100 [UpgradeWizard] - database repaired
+Wed, 04 Nov 2015 09:57:35 +0100 [UpgradeWizard] -  Start Rebuilding the config file again
+Wed, 04 Nov 2015 09:57:35 +0100 [UpgradeWizard] -  Finish Rebuilding the config file again
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - Begin upgrade_connectors
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - End upgrade_connectors
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - Running UpgradeRemoval instance UpgradeRemoval65x
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - Files will be backed up to custom/backup
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Accounts/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/ACLActions/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Administration/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Bugs/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Calendar/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Calls/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Campaigns/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Cases/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Contacts/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Documents/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Emails/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/EmailTemplates/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Leads/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Meetings/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/ModuleBuilder/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Notes/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Opportunities/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Project/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/ProjectTask/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/ProspectLists/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Prospects/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Tasks/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Users/Ext/Language/ru_ru.lang.ext.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Administration/colourAdmin.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Administration/colourAdmin.tpl
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Accounts/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/ACLActions/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Administration/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Bugs/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Calendar/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Calls/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Campaigns/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Cases/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Contacts/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Documents/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Emails/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/EmailTemplates/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Leads/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Meetings/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/ModuleBuilder/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Notes/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Opportunities/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Project/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/ProjectTask/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/ProspectLists/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Prospects/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Tasks/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Users/Ext/Language/ru_ru.SecurityGroups.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Administration/Ext/Administration/colourAdmin.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Contacts/Ext/Vardefs/sugarfield_facebook_username_c.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/Opportunities/Ext/Vardefs/sugarfield_textarea_c.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/FP_events/Ext/Layoutdefs/_overrideFP_events_subpanel_fp_events_fp_expenses_1.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/modules/FP_events/Ext/Layoutdefs/fp_events_fp_expenses_1_FP_events.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/Extension/application/EXT/LogicHooks/SugarFTSHooks.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/themes/default/images/icon_Jjwg_Maps.gif
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/themes/default/images/icon_jjwg_Maps.gif
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/themes/default/images/icon_Jjwg_Maps.png
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/themes/default/images/icon_jjwg_Maps.png
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - mobile/js/quickcrm-utils.min.js
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - mobile/js/quickcrm-ce-3.0.0.min.js
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - mobile/js/quickcrm-ce-3.2.2.min.js
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/AOD_Index/Dashlets/AOD_IndexDashlet/AOD_IndexDashlet.meta.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/AOD_Index/Dashlets/AOD_IndexDashlet/AOD_IndexDashlet.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/AOD_IndexEvent/Dashlets/AOD_IndexEventDashlet/AOD_IndexEventDashlet.meta
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/AOD_IndexEvent/Dashlets/AOD_IndexEventDashlet/AOD_IndexEventDashlet.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/AOD_Index/metadata/studio.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/AOD_IndexEvent/metadata/studio.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/formatters/ext/rest/linkedin
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/formatters/ext/rest/linkedin/tpls
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/formatters/ext/rest/linkedin/tpls/default.tpl
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/formatters/ext/rest/linkedin/tpls/linkedin.gif
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/formatters/ext/rest/linkedin/linkedin.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/language
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/language/en_us.lang.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/language/es_es.lang.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/language/ru_ru.lang.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/config.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/linkedin.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/mapping.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Connectors/connectors/sources/ext/rest/linkedin/vardefs.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - themes/SuiteR/images/backtotop.png
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - themes/SuiteR/js/bootstrap.js
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - include/images/sugarcrm_login.png
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Home/About.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - custom/modules/Home/AboutSugar.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Documents/Popup.php
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Documents/Popup_picker.html
+Wed, 04 Nov 2015 09:57:36 +0100 [UpgradeWizard] - modules/Documents/Popup_picker.php
+Wed, 04 Nov 2015 09:58:02 +0100 [UpgradeWizard] - Cleaning up the session.  Goodbye.
+Wed, 04 Nov 2015 09:58:02 +0100 [UpgradeWizard] - at unlinkUWTempFiles()
+Wed, 04 Nov 2015 09:58:07 +0100 [UpgradeWizard] - finished!
+Wed, 04 Nov 2015 09:58:07 +0100 [UpgradeWizard] - Cleaning up the session.  Goodbye.
+Wed, 04 Nov 2015 09:58:07 +0100 [UpgradeWizard] - resetting $_SESSION

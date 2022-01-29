@@ -1,0 +1,203 @@
+<div class="row">
+    <div class="col-xs-12 col-sm-3 col-md-2 sidebar">
+        <div ng-if="currentUser" class="panel panel-info notifications" ng-controller="NotificationController">
+            <div class="panel-heading">
+                <div class="panel-title">Notifications</div>
+            </div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    <a href ng-click="selectNotification()" ng-repeat="noti in notificationArray">
+                        <li class="list-group-item small">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h5>{{noti.property_name}}</h5>
+                                    <p>{{noti.message}}</p>
+                                    <p><i>{{noti.date | amCalendar }} </i></p>
+                                </div>
+                            </div>
+                            <span class="clearfix"></span>
+                        </li>
+                    </a>
+                </ul>
+                <button ng-disabled="disableNotiLoadMore" class="btn btn-block btn-default" ng-click="moreNotifications()"> Load More </button>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" ng-controller="PayController">
+        <div class="row" >
+            <div class="col-xs-12 col-md-8">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <span class="pull-left">
+                            <p class="h3"><span class="fa fa-home"></span>  {{property.name}}</p>
+                            <p class="h4"><span class="glyphicon glyphicon-map-marker"></span> {{property.street+" "+property.city+" "+property.state }}</p>
+                        </span>
+                        <span class="pull-right">
+                            <br>
+                            <rating ng-model="property.rating" max="5" readonly="true"></rating>
+<!--                             <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star-empty"></span>
+                            <span class="glyphicon glyphicon-star-empty"></span> -->
+                        </span>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="panel-body">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">
+                                    Payment details
+                                </h3>
+                            </div>
+                            <div class="panel-body">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <p>Order ID: &nbsp;<b>{{payment.order_id}}</b></p>
+                                        <p>RRR: &nbsp;<b>{{payment.rrr}}</b></p>
+                                        <p><b>Date Chosen: &nbsp;</b>{{details.event_date | amCalendar}}</p>
+                                        <p class="small"><b>Property Amount:</b> &nbsp;{{details.property_amount}}</p>
+                                        <p class="small"><b>Transaction Amount:</b> &nbsp;{{details.gateway_amount}}</p>
+                                        <hr>
+                                        <p><b>Total Amount:</b> &nbsp;{{(details.total_amount)}}</p>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <p>
+                                            <select name="paymenttype" class="form-control" ng-model="payment.paymenttype">
+                                                <option value="Interswitch">Verve</option>
+                                                <option value="UPL">VISA</option>
+                                                <option value="UPL">Mastercard</option>
+                                            </select>
+                                        </p>
+                                        <pay-form data="payment"></pay-form>
+                                        <p><a class="btn btn-warning btn-block">Cancel</a></p>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <img class="center-img" src="img/docs/remita-logo.png">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="thumbnail" ng-repeat="image in property.images" ng-click="changeImage($index)">
+                                    <img src="{{image.src}}" alt="Property thumbnail">
+                                </div>
+                                <!-- <img src="img/house.jpg" class="thumbnail" alt="Property thumbnail">
+                                <img src="img/house.jpg" class="thumbnail" alt="Property thumbnail">
+                                <img src="img/house.jpg" class="thumbnail" alt="Property thumbnail">
+                                <img src="img/house.jpg" class="thumbnail" alt="Property thumbnail"> -->
+                            </div>
+                        </div>
+                        <div class="">
+                            <span>{{property.description}}</span>
+                        </div>
+                        <hr>
+                        <div>
+                            <span class="tags" ng-if="property.pool">Swimming Pool</span>
+                            <span class="tags" ng-if="property.internet">Internet</span>
+                            <span class="tags" ng-if="property.bpower">Backup Power</span>
+                            <span class="tags" ng-if="property.ac">Air Conditioning</span>
+                            <span class="tags" ng-if="property.bar">Restaurant/Bar</span>
+                        </div>
+                        <!-- <div class="row">
+                                <br>
+                                <div class="col-md-12 well">
+                                    <div class="text-center">
+                                        <my-calendar e="property.events" editable=false></my-calendar>
+                                    </div>
+                                    <br>
+                                    <div class="col-md-12">
+                                        
+                                    </div>
+                                </div>
+                        </div> -->
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6 text-center block-padding-20">
+                                <div class="well">
+                                    <h3>Property Owner Details</h3>
+                                    <br>
+                                    {{property.owner[0].first_name}} {{property.owner[0].last_name}}
+                                    <br>
+                                    {{property.owner[0].email_address}}
+                                    <br>
+                                    {{property.owner[0].phone_number}}
+                                </div>
+                            </div>
+                            <div class="col-md-6 text-center block-padding-20">
+                                <div class="well">
+                                    <h3>Company Details</h3>
+                                    <br>
+                                    {{property.company[0].name}}
+                                    <br>
+                                    {{property.company[0].street}} {{property.company[0].city}} {{property.company[0].state}} {{property.company[0].country}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-4 placeholder">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <p class="panel-title">Property Statistics</p>
+                    </div>
+                    <div class="panel-body">
+                        <table class="table table-responsive table-stripped">
+                            <tbody>
+                                <tr>
+                                    <td>Security</td>
+                                    <td>
+                                        <div class="progress">
+                                            <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="{{property.security}}" aria-valuemin="0" aria-valuemax="100" style="width: {{property.security}}%">
+                                                {{property.security}}%
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Power</td>
+                                    <td>
+                                        <div class="progress">
+                                            <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="{{property.power}}" aria-valuemin="0" aria-valuemax="100" style="width: {{property.power}}%">
+                                                {{property.power}}%
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Water</td>
+                                    <td>
+                                        <div class="progress">
+                                            <div class="progress-bar" role="progressbar" aria-valuenow="{{property.water}}" aria-valuemin="0" aria-valuemax="100" style="width: {{property.water}}%">
+                                                {{property.water}}%
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Accessibility</td>
+                                    <td><div class="progress">
+                                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="{{property.accessibility}}" aria-valuemin="0" aria-valuemax="100" style="width: {{property.accessibility}}%">
+                                               {{property.accessibility}}%
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="panel panel-success">
+                    <div class="panel-heading">
+                        <p class="panel-title">Property Location</p>
+                    </div>
+                    <div class="panel-body">
+                        <property-map longitude="property.longitude" latitude="property.latitude" draggable=false zoom="11"></property-map>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

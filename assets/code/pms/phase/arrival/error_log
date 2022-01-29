@@ -1,0 +1,5 @@
+[17-Nov-2016 09:46:50 Africa/Lagos] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickCore.so.2: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[27-Feb-2017 17:16:16 Africa/Lagos] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/calebcom/public_html/code/pms/_core/util/SqlClient.php on line 66
+[27-Feb-2017 17:16:55 Africa/Lagos] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/calebcom/public_html/code/pms/_core/util/SqlClient.php on line 66
+[27-Feb-2017 17:17:38 Africa/Lagos] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/calebcom/public_html/code/pms/_core/util/SqlClient.php on line 66
+[27-Feb-2017 17:17:38 Africa/Lagos] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/calebcom/public_html/code/pms/_core/util/SqlClient.php on line 72

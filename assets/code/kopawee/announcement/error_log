@@ -1,0 +1,1 @@
+[26-May-2020 15:33:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/calebcom/public_html/code/kopawee/root/databaseHandler.php on line 29

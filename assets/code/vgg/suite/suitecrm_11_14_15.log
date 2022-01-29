@@ -1,0 +1,3 @@
+11/14/15 03:00:07 [5080][1][FATAL] Job 392c0f4c-fc65-6ba4-2175-56465df6b2e5 (Run Reports) failed in CRON run
+11/14/15 04:00:11 [924][1][FATAL] Job 7f7b1fb1-572a-5c67-982a-56466b38e5bc (Run Report Generation Scheduled Tasks) failed in CRON run
+11/14/15 04:00:25 [924][1][FATAL] Job 9a51ea9f-8a70-e210-dc59-56466b9f64a2 (Perform Lucene Index) failed in CRON run

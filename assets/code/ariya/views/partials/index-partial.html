@@ -1,0 +1,96 @@
+<div>
+    <header class="video">
+        <div id="big-video-wrap">
+            <video autoplay muted loop poster="img/map_test.jpg">
+                <source src="img/lavess.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h1 class="big-text text-primary">Àríyá</h1>
+                <p class="header-text text-info">Your 1 stop shop for event venues</p>
+                <form class="form" role="form" ng-submit="findProperty(searchQuery)">
+                    <div class="input-group">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-search"></span></span>
+                        <input name="search" ng-model="searchQuery" type="text" class="form-control" placeholder="Search for places, events, locations, ...">
+                    </div>
+                </form>
+                <br>
+                <div class="col-md-offset-4 col-xs-offset-4 col-xs-4 col-md-4"><button class="btn btn-block btn-info" ui-sref="listing">ENTER</button></div>
+            </div>
+        </div>
+    </header>
+
+    <section id="featured" ng-controller="FeaturedController">
+        <div class="block-padding-50">
+            <h1 class="text-center">Featured</h1>
+            <div class="row masonry">
+                <div class="col-md-4 col-sm-6 col-xs-12 text-center item" ng-repeat="property in propertyList">
+                    <a href ui-sref="viewProperty({property_name:'{{property.other_name}}',id:{{property.property_id}}})">
+                        <div class="panel panel-info" >
+                            <div class="panel-heading">
+                                <p class="panel-title">{{property.name}}</p>
+                            </div>
+                            <div class="panel-body crop" style="background-image: url('{{property.src}}');">
+                                <img ng-src="{{property.src}}" class="img-responsive" alt="Property thumbnail">
+                                <p class="homepage-img text-muted">
+                                    <span>{{property.short_description}}</span>
+                                </p>
+                            </div>
+                            <div class="panel-footer">
+                                <span class="glyphicon glyphicon-map-marker"></span>
+                                <span>{{property.street+" "+property.city+" "+property.state }}</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-offset-2 col-xs-8 col-md-offset-4 col-md-4"><button class="btn btn-block btn-default" ui-sref="listing">More...</button></div>
+            </div>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="block-padding-30">
+            <h1 class="text-center">Services</h1>
+            <div class="row">
+                <div class="col-md-4 col-xs-12 block-padding-20 text-center">
+                    <img src="img/docs/rent.png" class="service-img img-responsive center-img thumbnail">
+                    <h2>Rent Out / Lease</h2>
+                    <p>Offer your venues for rent or lease on Ariya</p>
+                </div>
+                <div class="col-md-4 col-xs-12 block-padding-20 text-center">
+                    <img src="img/docs/bid.png" class="service-img img-responsive center-img thumbnail">
+                    <h2>Bid</h2>
+                    <p>Enter a bid race for venues at incredibly cheap prices</p>
+                </div>
+                <div class="col-md-4 col-xs-12 block-padding-20 text-center">
+                    <img src="img/docs/book.png" class="service-img img-responsive center-img thumbnail">
+                    <h2>Book</h2>
+                    <p>Place bookings for venues on Ariya and see them immediately accepted</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div id="about">
+        <div class="block-padding-50 header-text">
+            <h2 class="text-center">Our Gist</h2>
+            <hr>
+            <div class="row">
+                <div class="col-xs-12 col-md-6 block-padding-20">
+                    <h2>The Ariya Service</h2>
+                    <p>Ariya was a tool built for your convenience in getting or selling event venues.
+                        We have utilised and continue to research the power of the web and a sharp thinking to bring you the best experience possible just to make your life easy</p>
+                </div>
+                <div class="col-xs-12 col-md-6 block-padding-20">
+                    <h2>Contact Us</h2>
+                    <p><span><i class="fa fa-2 fa-phone"></i></span>+234 809 873 5377</p>
+                    <p><span><i class="fa fa-2 fa-home"></i></span>4, Oyeyemi Street, Owotutu B/Stop, Pedro, Lagos</p>
+                    <p><span><i class="fa fa-2 fa-envelope"></i></span>info@ariya.ng</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,5 @@
+Tue Nov 17 09:16:13 2015 [29168][-none-][FATAL] Could not connect to DB server localhost as calebcom_root. port : Access denied for user 'calebcom_root'@'localhost' to database 'calebcom_supportv_crm'
+Tue Nov 17 12:13:38 2015 [27324][-none-][FATAL] SECURITY: User authentication for caleb failed
+Tue Nov 17 12:13:38 2015 [27324][-none-][FATAL] FAILED LOGIN:attempts[1] - caleb
+Tue Nov 17 12:15:25 2015 [30390][-none-][FATAL] SECURITY: User authentication for caleb failed
+Tue Nov 17 12:15:25 2015 [30390][-none-][FATAL] FAILED LOGIN:attempts[1] - caleb

@@ -1,0 +1,12 @@
+11/12/15 09:00:02 [6616][1][FATAL] Job 2fcaf8d2-0ab7-8155-d5fe-564389c43328 (Run Report Generation Scheduled Tasks) failed in CRON run
+11/12/15 09:00:18 [6616][1][FATAL] Job e620fe4e-2a3e-e69b-c910-56438960ab68 (Run Reports) failed in CRON run
+11/12/15 09:00:22 [6616][1][FATAL] Job e2d71fd3-82bb-64d0-c516-56444783ccbf (Optimise AOD Index) failed in CRON run
+11/12/15 10:00:06 [10392][1][FATAL] Job 28cea48a-4d23-c896-5317-564455045497 (Run Report Generation Scheduled Tasks) failed in CRON run
+11/12/15 10:00:21 [10392][1][FATAL] Job ea82dce7-e026-2f76-1c75-564455610cc3 (Run Reports) failed in CRON run
+11/12/15 11:00:54 [9924][1][FATAL] Job 5a588c90-8e25-87a2-c7a3-564463151a6b (Run Report Generation Scheduled Tasks) failed in CRON run
+11/12/15 12:00:12 [9376][1][FATAL] Job 962595f4-69be-9b8b-0f7b-564463a4421f (Run Reports) failed in CRON run
+11/12/15 12:00:12 [9376][1][FATAL] Job 1b2adf74-bcd0-fcdd-284c-5644718c6689 (Optimise AOD Index) failed in CRON run
+11/12/15 16:00:17 [4448][1][FATAL] Job 64b3a3a7-d504-dcd7-1088-56447103ef3a (Run Report Generation Scheduled Tasks) failed in CRON run
+11/12/15 16:00:18 [4448][1][FATAL] Job 101900d4-c0e2-1f93-d795-56448d90d1bc (Run Reports) failed in CRON run
+11/12/15 17:00:17 [7748][1][FATAL] Job 7498ed23-c74c-61fe-defa-5644b74903f1 (Run Report Generation Scheduled Tasks) failed in CRON run
+11/12/15 17:00:17 [7748][1][FATAL] Job 7dafb9e3-f709-58ce-6941-5644b7b95f0d (Run Reports) failed in CRON run

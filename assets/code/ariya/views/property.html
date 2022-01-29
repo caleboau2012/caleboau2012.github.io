@@ -1,0 +1,250 @@
+<div class="row">
+    <div class="col-xs-12 col-sm-3 col-md-2 sidebar">
+        <div ng-if="!currentUser" class="well">
+            <div class="text-center">
+                <p>You are not logged in.</p>
+            </div>
+            <div class="text-center">
+                <a ui-sref="login" class="btn btn-primary">Login/Register</a>
+            </div>
+        </div>
+        <div ng-if="currentUser" class="panel panel-info notifications" ng-controller="NotificationController">
+            <div class="panel-heading">
+                <div class="panel-title">Notifications</div>
+            </div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    <a href ng-click="selectNotification()" ng-repeat="noti in notificationArray">
+                        <li class="list-group-item small">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h5>{{noti.property_name}}</h5>
+                                    <p>{{noti.message}}</p>
+                                    <p><i>{{noti.date | amCalendar }} </i></p>
+                                </div>
+                            </div>
+                            <span class="clearfix"></span>
+                        </li>
+                    </a>
+                </ul>
+                <button ng-disabled="disableNotiLoadMore" class="btn btn-block btn-default" ng-click="moreNotifications()"> Load More </button>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" ng-controller="PropertyController">
+        <div class="row" >
+            <div class="col-xs-12 col-md-8">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <span class="pull-left">
+                            <p class="h3"><span class="fa fa-home"></span>  {{property.name}}</p>
+                            <p class="h4"><span class="glyphicon glyphicon-map-marker"></span> {{property.street+" "+property.city+" "+property.state }}</p>
+                        </span>
+                        <span class="pull-right">
+                            <br>
+                            <rating ng-model="property.rating" max="5" readonly="true"></rating>
+<!--                             <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star-empty"></span>
+                            <span class="glyphicon glyphicon-star-empty"></span> -->
+                        </span>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="panel-body">
+                        <div class="text-center">
+                            <a class="btn btn-primary" onclick="facebookShare()">
+                                <span class="fa fa-facebook"></span> Facebook
+                            </a>
+                            <a class="btn btn-danger" onclick="googlePlusShare()"><span class="fa fa-google-plus"></span> Google+</a>
+                            <a class="btn btn-info" onclick="twitterShare()"><span class="fa fa-twitter"></span> Twitter</a>
+                        </div>
+                        <div class="panel-body">
+                            <img ng-src="{{property.images[0].src}}" class="img-responsive center-img property-image-main" alt="Property thumbnail" id="propertyImage">
+                            <div class="row">
+                                <div class="thumbnail" ng-repeat="image in property.images" ng-click="changeImage($index)">
+                                    <img src="{{image.src}}" alt="Property thumbnail">
+                                </div>
+                                <!-- <img src="img/house.jpg" class="thumbnail" alt="Property thumbnail">
+                                <img src="img/house.jpg" class="thumbnail" alt="Property thumbnail">
+                                <img src="img/house.jpg" class="thumbnail" alt="Property thumbnail">
+                                <img src="img/house.jpg" class="thumbnail" alt="Property thumbnail"> -->
+                            </div>
+                        </div>
+                        <div class="">
+                            <span>{{property.description}}</span>
+                        </div>
+                        <hr>
+                        <div>
+                            <span class="tags" ng-if="property.pool">Swimming Pool</span>
+                            <span class="tags" ng-if="property.internet">Internet</span>
+                            <span class="tags" ng-if="property.bpower">Backup Power</span>
+                            <span class="tags" ng-if="property.ac">Air Conditioning</span>
+                            <span class="tags" ng-if="property.bar">Restaurant/Bar</span>
+                            <span class="tags" ng-if="property.parking">Parking</span>
+                            <span class="tags" ng-if="property.restroom">Rest Room</span>
+                        </div>
+                        <hr>
+                        <div class="col-md-12 well">
+                            <div class="text-center calendarHolder">
+                                <my-calendar property="property" editable=true></my-calendar>
+                            </div>
+                            <div class="text-center">
+                                <button ng-click="bidOrbook()" class="btn btn-primary" popover-placement="right" popover="You have to select a date before you can bid/book" popover-enable="!canBid">Bid | Book </button>
+                                <p class="text-muted text-info">(You have to select a date before you can bid)</p>
+                                <!-- ui-sref="editProperty({id:{{property.property_id}}})" -->
+                            </div>
+                        </div>
+                        <!-- <div class="row">
+                                <br>
+                                <div class="col-md-12 well">
+                                    <div class="text-center">
+                                        <my-calendar e="property.events" editable=false></my-calendar>
+                                    </div>
+                                    <br>
+                                    <div class="col-md-12">
+                                        
+                                    </div>
+                                </div>
+                        </div> -->
+                        <br>
+                        <p>Property Location:</p>
+                        <br>
+                        <div class="col-md-12 well">
+                            <property-map longitude="property.longitude" latitude="property.latitude" draggable=false zoom="11"></property-map>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6 text-center block-padding-20">
+                                <div class="well">
+                                    <h3>Property Owner Details</h3>
+                                    <br>
+                                    {{property.owner[0].first_name}} {{property.owner[0].last_name}}
+                                    <br>
+                                    {{property.owner[0].email_address}}
+                                    <br>
+                                    {{property.owner[0].phone_number}}
+                                </div>
+                            </div>
+                            <div class="col-md-6 text-center block-padding-20">
+                                <div class="well">
+                                    <h3>Company Details</h3>
+                                    <br>
+                                    {{property.company[0].name}}
+                                    <br>
+                                    {{property.company[0].street}} {{property.company[0].city}} {{property.company[0].state}} {{property.company[0].country}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-4 placeholder">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <p class="panel-title">Property Statistics</p>
+                    </div>
+                    <div class="panel-body">
+                        <table class="table table-responsive table-stripped">
+                            <tbody>
+                                <tr>
+                                    <td>Security</td>
+                                    <td>
+                                        <div class="progress">
+                                            <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="{{property.security}}" aria-valuemin="0" aria-valuemax="100" style="width: {{property.security}}%">
+                                                {{property.security}}%
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Power</td>
+                                    <td>
+                                        <div class="progress">
+                                            <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="{{property.power}}" aria-valuemin="0" aria-valuemax="100" style="width: {{property.power}}%">
+                                                {{property.power}}%
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Water</td>
+                                    <td>
+                                        <div class="progress">
+                                            <div class="progress-bar" role="progressbar" aria-valuenow="{{property.water}}" aria-valuemin="0" aria-valuemax="100" style="width: {{property.water}}%">
+                                                {{property.water}}%
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Accessibility</td>
+                                    <td><div class="progress">
+                                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="{{property.accessibility}}" aria-valuemin="0" aria-valuemax="100" style="width: {{property.accessibility}}%">
+                                               {{property.accessibility}}%
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Capacity</td>
+                                    <td>{{property.capacity}}</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!--<div class="panel panel-primary">-->
+                    <!--<div class="panel-heading">-->
+                        <!--<p class="panel-title">Contact Property Owner</p>-->
+                    <!--</div>-->
+                    <!--<form>-->
+                        <!--<div class="panel-body">-->
+                            <!--<input class="form-control" name="name" placeholder="Name">-->
+                            <!--<br>-->
+                            <!--<input class="form-control" name="email" placeholder="email">-->
+                            <!--<br>-->
+                            <!--<textarea class="form-control" name="message" placeholder="Message"></textarea>-->
+                        <!--</div>-->
+                        <!--<div class="panel-footer">-->
+                            <!--<button class="btn btn-info pull-right">-->
+                                <!--<span class="glyphicon glyphicon-send"></span>-->
+                                <!--Send-->
+                            <!--</button>-->
+                            <!--<div class="clearfix"></div>-->
+                        <!--</div>-->
+                    <!--</form>-->
+                <!--</div>-->
+                <div class="panel panel-info" ng-controller="ReviewController">
+                    <div class="panel-heading">
+                        <div class="panel-title">Reviews</div>
+                    </div>
+                    <div class="panel-body">
+                        <ul class="list-group">
+                            <li class="list-group-item" ng-repeat="review in reviewArray">
+                                <h5><b>{{review.first_name}} {{review.last_name}}</b></h5>
+                                <h6><span>Rating: {{review.rating}}/5</h6>
+                                {{review.review}}
+                                <hr>
+                                <i>{{review.modified_time | amCalendar}}</i>
+                            </li>
+                        </ul>
+                        <button ng-disabled="disableReviewLoadMore" class="btn btn-block btn-default" ng-click="loadMoreReviews()"> Load More </button>
+                    </div>
+                    <div ng-if="currentUser && !property.isOwner" class="panel-footer">
+                        <div>
+                            <textarea placeholder="Enter Comment" rows="3" class="form-control" aria-describedby="comment-addon" ng-model="reviewText" id="reviewTextArea"></textarea>
+                        </div>
+                        <div class="input-group">
+                            <span class="form-control">
+                                <span class="pointer">
+                                    <rating ng-model="reviewRate" max="max" readonly="isReadonly" on-hover="hoveringOver(value)" on-leave="overStar = null"></rating>
+                                </span>
+                            </span>
+                            <span class="btn input-group-addon" id="comment-addon" ng-click="addReview(reviewText, reviewRate)"><span class="glyphicon glyphicon-comment"></span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

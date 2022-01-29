@@ -1,0 +1,161 @@
+11/16/15 09:26:24 [2164][-none-][FATAL] SECURITY: User authentication for caleb failed
+11/16/15 09:26:25 [2164][-none-][FATAL] FAILED LOGIN:attempts[1] - caleb
+11/16/15 09:26:31 [2164][-none-][FATAL] SECURITY: User authentication for caleb failed
+11/16/15 09:26:31 [2164][-none-][FATAL] FAILED LOGIN:attempts[1] - caleb
+11/16/15 10:00:06 [6796][1][FATAL] Job b301e381-cc8f-1b3b-5c2a-56466bb2734c (Optimise AOD Index) failed in CRON run
+11/16/15 10:05:19 [2164][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\xampp\htdocs\suite\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\xampp\htdocs\suite\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\xampp\htdocs\suite\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\suite\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\xampp\htdocs\suite\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\xampp\htdocs\suite\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('EmailMan', 'after_ui_frame')
+#5 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\xampp\htdocs\suite\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\xampp\htdocs\suite\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/16/15 16:00:06 [9188][1][FATAL] Job 5774f10b-afba-d74c-341b-5646a3666e80 (Run Reports) failed in CRON run
+11/16/15 16:00:07 [9188][1][FATAL] Job 1671b5bb-afe2-97a4-868e-56499bbde73c (Run Report Generation Scheduled Tasks) failed in CRON run
+11/16/15 16:00:07 [9188][1][FATAL] Job 488277a7-3d36-209a-8bc8-5649b7265a6e (Optimise AOD Index) failed in CRON run
+11/16/15 16:19:27 [2164][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\xampp\htdocs\suite\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\xampp\htdocs\suite\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\xampp\htdocs\suite\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\suite\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\xampp\htdocs\suite\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\xampp\htdocs\suite\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\xampp\htdocs\suite\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\xampp\htdocs\suite\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/16/15 16:20:34 [2164][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\xampp\htdocs\suite\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\xampp\htdocs\suite\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\xampp\htdocs\suite\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\suite\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\xampp\htdocs\suite\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\xampp\htdocs\suite\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Studio', 'after_ui_frame')
+#5 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\xampp\htdocs\suite\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\xampp\htdocs\suite\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/16/15 16:20:59 [2164][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\xampp\htdocs\suite\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\xampp\htdocs\suite\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\xampp\htdocs\suite\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\suite\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\xampp\htdocs\suite\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\xampp\htdocs\suite\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Opportunities', 'after_ui_frame')
+#5 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\xampp\htdocs\suite\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\xampp\htdocs\suite\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/16/15 16:21:05 [2164][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\xampp\htdocs\suite\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\xampp\htdocs\suite\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\xampp\htdocs\suite\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\suite\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\xampp\htdocs\suite\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\xampp\htdocs\suite\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Opportunities', 'after_ui_frame')
+#5 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\xampp\htdocs\suite\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\xampp\htdocs\suite\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/16/15 16:21:29 [2164][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\xampp\htdocs\suite\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\xampp\htdocs\suite\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\xampp\htdocs\suite\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\suite\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\xampp\htdocs\suite\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\xampp\htdocs\suite\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Accounts', 'after_ui_frame')
+#5 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\xampp\htdocs\suite\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\xampp\htdocs\suite\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/16/15 16:22:37 [2164][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\xampp\htdocs\suite\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\xampp\htdocs\suite\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\xampp\htdocs\suite\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\suite\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\xampp\htdocs\suite\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\xampp\htdocs\suite\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Opportunities', 'after_ui_frame')
+#5 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\xampp\htdocs\suite\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\xampp\htdocs\suite\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/16/15 16:23:08 [2164][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\xampp\htdocs\suite\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\xampp\htdocs\suite\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\xampp\htdocs\suite\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\suite\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\xampp\htdocs\suite\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\xampp\htdocs\suite\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Opportunities', 'after_ui_frame')
+#5 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\xampp\htdocs\suite\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\xampp\htdocs\suite\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/16/15 16:26:20 [2164][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\xampp\htdocs\suite\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\xampp\htdocs\suite\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\xampp\htdocs\suite\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\suite\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\xampp\htdocs\suite\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\xampp\htdocs\suite\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\xampp\htdocs\suite\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\xampp\htdocs\suite\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/16/15 16:33:20 [2164][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\xampp\htdocs\suite\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\xampp\htdocs\suite\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\xampp\htdocs\suite\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\suite\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\xampp\htdocs\suite\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\xampp\htdocs\suite\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('SecurityGroups', 'after_ui_frame')
+#5 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\xampp\htdocs\suite\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\xampp\htdocs\suite\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\xampp\htdocs\suite\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/16/15 17:00:13 [10032][1][FATAL] Job 55e3b56e-3bca-2d42-1109-5649fd9aaf68 (Run Reports) failed in CRON run
+11/16/15 17:00:14 [10032][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+11/16/15 17:00:14 [10032][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+11/16/15 17:00:14 [10032][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+11/16/15 17:00:14 [10032][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+11/16/15 17:00:14 [10032][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+11/16/15 17:00:14 [10032][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+11/16/15 17:00:14 [10032][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+11/16/15 17:00:14 [10032][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+11/16/15 17:00:14 [10032][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+11/16/15 17:00:14 [10032][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+11/16/15 17:00:14 [10032][1][FATAL] Job cfc5d7cb-872f-729d-b487-5649fd362b67 (Run Report Generation Scheduled Tasks) failed in CRON run
+11/16/15 18:00:02 [7500][1][FATAL] Job 30150f88-c5f6-291f-a732-564a0bc720a2 (Optimise AOD Index) failed in CRON run

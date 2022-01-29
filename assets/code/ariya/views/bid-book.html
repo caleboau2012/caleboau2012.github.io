@@ -1,0 +1,132 @@
+<div class="row">
+    <div class="col-xs-12 col-sm-3 col-md-2 sidebar">
+        <div ng-if="currentUser" class="panel panel-info notifications" ng-controller="NotificationController">
+            <div class="panel-heading">
+                <div class="panel-title">Notifications</div>
+            </div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    <a href ng-click="selectNotification()" ng-repeat="noti in notificationArray">
+                        <li class="list-group-item small">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h5>{{noti.property_name}}</h5>
+                                    <p>{{noti.message}}</p>
+                                    <p><i>{{noti.date | amCalendar }} </i></p>
+                                </div>
+                            </div>
+                            <span class="clearfix"></span>
+                        </li>
+                    </a>
+                </ul>
+                <button ng-disabled="disableNotiLoadMore" class="btn btn-block btn-default" ng-click="moreNotifications()"> Load More </button>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" ng-controller="BidBookController">
+        <div class="row">
+            <div class="col-xs-12 col-md-8">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <span class="pull-left">
+                            <p class="h3"><span class="fa fa-home"></span>  {{property.name}}</p>
+                            <p class="h4"><span class="glyphicon glyphicon-map-marker"></span>{{property.street+" "+property.city+" "+property.state }}</p>
+                        </span>
+                        <span class="pull-right">
+                            <br>
+                            <rating ng-model="property.rating" max="5" readonly="true"></rating>
+                        </span>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="panel-body">
+                        <div ng-show="property.bid" class="row">
+                            <div class="col-xs-6">
+                                <div class="alert alert-success bid-alert text-center">
+                                    <span class="fa fa-exclamation-circle"></span>
+                                    <span>{{property.bid.no_of_bidders}} person(s) currently bidding for this property</span>
+                                </div>
+                            </div>
+                            <div class="col-xs-6">
+                                <div class="alert alert-warning bid-alert text-center">
+                                    Bid ends in:
+                                    <br>
+                                    <span><b>{{currentTimeString}}</b></span>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <form role="form">
+                            <div class="row text-center">
+                                <h3 class="h3">Bidding/Booking Info</h3>
+                                
+                                <div class="form-group">
+                                    <label for="bidName">
+                                        <input type="text" ng-model="bid.title" class="form-control" placeholder="Event Name" required>
+                                    </label>
+                                </div>
+                                <div class="col-xs-6">
+                                    Current Bid Price
+                                    <br>
+                                    <span><b>₦{{bid.price}}</b>/day</span>
+                                </div>
+                                <div class="col-xs-6">
+                                    Booking Price
+                                    <br>
+                                    <span><b>₦{{property.booking_price}}</b>/day</span>
+                                </div>
+                                <div class="center-block form-inline">
+                                    <span>Your Bid:</span>
+                                    <br>
+                                    <button type="button" class="btn btn-xs btn-default" ng-click="alterBid(false)"><span class="fa fa-minus"></span> </button>
+                                    <input class="form-control" ng-model="bid.price" readonly>
+                                    <button type="button" class="btn btn-xs btn-default" ng-click="alterBid(true)"><span class="fa fa-plus"></span> </button>
+                                </div>
+                            </div>
+                            <hr>
+                            <h3 class="text-center">Date: {{bid.dateString}}</h3>
+                            <!-- <div class="col-md-12 well">
+                                <div class="text-center calendarHolder">
+                                    <my-calendar property="property" editable=true multiple="true" n="property.eventName"></my-calendar>
+                                </div>
+                            </div> -->
+                            <hr>
+                            <div class="row text-center">
+                                <div class="col-xs-6">
+                                    <button ng-disabled="!canBook" class="btn btn-primary" type="submit" ng-click="bidOrbook('book')">Book</button>
+                                </div>
+                                <div class="col-xs-6">
+                                    <button ng-disabled="!canBid" class="btn btn-info" type="submit" ng-click="bidOrbook('bid')">Bid</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-4 placeholder">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <p class="panel-title">Bid Race</p>
+                    </div>
+                    <div class="panel-body">
+                        <table class="table table-bordered table-responsive table-striped">
+                            <thead>
+                            <tr>
+                                <th>User</th>
+                                <th>Bid</th>
+                                <th>Date</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                                <tr ng-repeat="bid in property.bid.races">
+                                    <td>{{bid.first_name}}</td>
+                                    <td>{{bid.price}}</td>
+                                    <td>{{bid.created_time | amCalendar}}</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

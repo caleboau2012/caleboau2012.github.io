@@ -1,0 +1,4 @@
+{"merchantId":"2547916","serviceTypeId":"4430731","totalAmount":"35700","hash":"08200b011d11a2e601233a6b6eb2ca89a5841e97d159fc8126324905d95f234947451e25e6cebc4ac82d9d1ffb6c3d0c409edad399cd04fbdd972191d3b78d09","orderId":"290815062457","responseurl":"http://code.caleb.com.ng/ariya/pay.php","payerName":"Jonah Jang","payerEmail":"blacque@outlook.com","payerPhone":"08027982503","lineItems":[
+{"lineItemsId":"itemid1","beneficiaryName":"Oshadami Mke","beneficiaryAccount":"3455665434","bankCode":"011","beneficiaryAmount":"1750","deductFeeFrom":"0"},
+{"lineItemsId":"34444290815062457","beneficiaryName":"oyeleye odumuyiwa","beneficiaryAccount":"0","bankCode":"0","beneficiaryAmount":"33950","deductFeeFrom":"1"}
+]}

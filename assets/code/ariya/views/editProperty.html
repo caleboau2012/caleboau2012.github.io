@@ -1,0 +1,312 @@
+<div class="row">
+    <div class="col-xs-12 col-sm-3 col-md-2 sidebar">
+        <div ng-if="currentUser" class="panel panel-info notifications" ng-controller="NotificationController">
+            <div class="panel-heading">
+                <div class="panel-title">Notifications</div>
+            </div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    <a href="" ng-repeat="noti in notificationArray">
+                        <li class="list-group-item small">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h5>{{noti.property_name}}</h5>
+                                    <p>{{noti.user_name}}</b> just placed a {{noti.type}}</p>
+                                    <p><i>{{noti.date | amCalendar }} </i></p>
+                                </div>
+                            </div>
+                            <span class="clearfix"></span>
+                        </li>
+                    </a>
+                </ul>
+                <button ng-disabled="disableNotiLoadMore" class="btn btn-block btn-default" ng-click="moreNotifications()"> Load More </button>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" ng-controller="EditPropertyController">
+        <div class="row">
+            <div class="col-xs-12">
+                <span class="h2">Manage Property</span>
+                <div class="btn-group pull-right">
+                    <button ng-if="property.property_id" class="btn btn-danger" ng-click="deleteProperty()"><span class="fa fa-trash"></span> Delete Property</button>
+                </div>
+                <br>
+                <br>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <form ng-submit="submitPropertyDetails(property)">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <div class="panel-title">Property Details</div>
+                        </div>
+                    
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <h3>Details</h3>
+                                    <div class="col-md-12">
+                                        <label>Name</label>
+                                        <input name="property-name" class="form-control" placeholder="Enter the name of the property" ng-model="property.name" required>
+                                        <br>
+                                        <label>Category</label>
+                                        <select name="category" class="form-control" ng-model="property.category" required>
+                                            <option ng-model="property.category" ng-repeat="cat in propertyCategories" value = "{{$index + 1}}">{{cat}}</option>
+                                        </select>
+                                        <br>
+                                        <label>Description:</label>
+                                        <textarea name="description" class="form-control" rows="10" ng-model="property.description" required></textarea>
+                                        <br>
+                                        <label>Street:</label>
+                                        <input name="property-address-street" class="form-control" placeholder="Enter the street that the property is situated" ng-model="property.street" required>
+                                        <br>
+                                        <label>City:</label>
+                                        <input name="property-address-city" class="form-control" placeholder="Enter the city that the property is situated" ng-model="property.city" required>
+                                        <br>
+                                        <label>State:</label>
+                                        <input name="property-address-state" class="form-control" placeholder="Enter the state that the property is situated" ng-model="property.state" required>
+                                        <br>
+                                        <label>Country:</label>
+                                        <select name="property-address-country" class="form-control" ng-model="property.country" required>
+                                            <option ng-model="property.country" ng-repeat="country in countries" ng-value="{{property.country}}">{{country}}</option>
+                                        </select>
+                                        <!-- <input name="property-address-country" class="form-control" placeholder="Enter the country that the property is situated" ng-model="property.country" required> -->
+                                        <br>
+
+                                        <!-- place map directive here -->
+                                        <property-map longitude="property.longitude" latitude="property.latitude" draggable=true zoom="11"></property-map>
+  
+                                      <br>
+                                        <label>Capacity:</label>
+                                        <input name="property-capacity" class="form-control" placeholder="Enter the capacity of the property" ng-model="property.capacity" fcsa-number required>
+                                        <br>
+                                        <label>Booking Price:</label>
+                                        <div class="input-group">
+                                            <span class="input-group-addon">₦</span>
+                                            <input name="property-address-country" class="form-control" placeholder="0" ng-model="property.booking_price" fcsa-number = "{maxDecimals:2}">
+                                        </div>
+                                        <br>
+                                        <label>Minimum Bidding Price:</label>
+                                        <div class="input-group">
+                                            <span class="input-group-addon">₦</span>
+                                            <input name="property-address-country" class="form-control" placeholder="0" ng-model="property.min_bid_price" fcsa-number = "{maxDecimals:2}">
+                                        <br>
+                                        </div>
+                                        <br>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="col-md-12">
+                                        <h3>Statistics</h3>
+                                        <div class="col-md-12">
+                                            <div class="row">
+                                                <div class="col-xs-6">
+                                                    Security
+                                                </div>
+                                                <div class="col-xs-6">
+                                                    <select class="form-control" name="security" ng-model="property.security">
+                                                        <option ng-repeat="stat in statRating" value="{{stat}}">{{stat}}%</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-xs-6">
+                                                    Power
+                                                </div>
+                                                <div class="col-xs-6">
+                                                    <select class="form-control" name="power" ng-model="property.power">
+                                                        <option ng-repeat="stat in statRating" value="{{stat}}">{{stat}}%</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-xs-6">
+                                                    Water
+                                                </div>
+                                                <div class="col-xs-6">
+                                                    <select class="form-control" name="water" ng-model="property.water">
+                                                        <option ng-repeat="stat in statRating" value="{{stat}}">{{stat}}%</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-xs-6">
+                                                    Accessibility
+                                                </div>
+                                                <div class="col-xs-6">
+                                                    <select class="form-control" name="accessibility" ng-model="property.accessibility">
+                                                        <option ng-repeat="stat in statRating" value="{{stat}}">{{stat}}%</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <br/>
+                                        <hr/>
+                                        <br/>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <h3>Features</h3>
+                                        <div class="col-md-12">
+                                            <input name="ac" type="checkbox" ng-model="property.ac"> <span>Air Conditioning</span>
+                                            <br>
+                                            <input name="pool" type="checkbox" ng-model="property.pool"> <span>Swimming Pool</span>
+                                            <br>
+                                            <input name="bar" type="checkbox" ng-model="property.bar"> <span>Bar</span>
+                                            <br>
+                                            <input name="internet" type="checkbox" ng-model="property.internet"> <span>Internet</span>
+                                            <br>
+                                            <input name="power" type="checkbox" ng-model="property.bpower"> <span>Backup Power</span>
+                                            <br>
+                                            <input name="parking" type="checkbox" ng-model="property.parking"> <span>Parking</span>
+                                            <br>
+                                            <input name="restroom" type="checkbox" ng-model="property.restroom"> <span>Rest Rooms</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel-footer">
+                            <!-- <button class="btn btn-primary pull-right" type="submit">SAVE DETAILS</button> -->
+                            <div class="clearfix"></div>
+                        </div>
+                    <!-- </form> -->
+                    </div>
+                    <div class="panel panel-info">
+                        <div class="panel-heading">
+                            <div class="panel-title">Images (586px x 315px is advised) <span class="pull-right"><a href ng-click="addImage()" class="btn btn-xs btn-success"><i class="fa fa-1x fa-plus-circle"></i> Add Image</a></span></div>
+                        </div>
+                        <!-- <form ng-submit="submitPropertyImages(property)"> -->
+                            <input type="file" class="hidden" id="addPropertyImage" nv-file-select="" uploader="uploader">
+                            <div class="panel-body">
+                                <h3>Preview:</h3>
+                                <div class="col-md-12">
+                                    <div class="row">
+                                        <div ng-repeat="img in images">
+                                            <div class="" style="width:120px; float:left;">
+                                                <img src="{{img.src}}" class="thumbnail" alt="Property thumbnail" width="100px" height="70px" ng-click="viewImage($index)"/>
+                                                <div class="text-center">
+                                                    <button type="button" class="btn btn-danger btn-xs" ng-click="removeImage($index)">
+                                                        <span class="glyphicon glyphicon-trash"></span>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <hr/>
+                                </div>
+                                <div class="col-md-12">
+                                    <h3>Upload Images:</h3>
+                                    <div class="row">
+                                        <table class="table" id="addPropertyTable">
+                                            <thead>
+                                                <tr>
+                                                    <th width="50%">Name</th>
+                                                    <th ng-show="uploader.isHTML5">Size</th>
+                                                    <th width="20%" ng-show="uploader.isHTML5">Progress</th>
+                                                    <th>Status</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr ng-repeat="item in uploader.queue">
+                                                    <td><strong>{{ item.file.name }}</strong></td>
+                                                    <td nowrap>{{ item.file.size/1024/1024|number:2 }} MB</td>
+                                                    <td ng-show="uploader.isHTML5">
+                                                        <div class="progress" style="margin-bottom: 0;">
+                                                            <div class="progress-bar" role="progressbar" ng-style="{ 'width': item.progress + '%' }"></div>
+                                                        </div>
+                                                    </td>
+                                                    <td class="text-center">
+                                                        <span ng-show="item.isSuccess"><i class="glyphicon glyphicon-ok"></i></span>
+                                                        <span ng-show="item.isCancel"><i class="glyphicon glyphicon-ban-circle"></i></span>
+                                                        <span ng-show="item.isError"><i class="glyphicon glyphicon-remove"></i></span>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    
+                                        <div class="col-md-12">
+                                            <div class="col-md-12">
+                                                Queue progress:
+                                                <div class="progress" style="">
+                                                    <div class="progress-bar" role="progressbar" ng-style="{ 'width': uploader.progress + '%' }"></div>
+                                                </div>
+                                            </div>
+                                            <!-- <button type="button" class="btn btn-success btn-s" ng-click="submitPropertyImages(property)" ng-disabled="!uploader.getNotUploadedItems().length">
+                                                <span class="glyphicon glyphicon-upload"></span> Upload all
+                                            </button> -->
+                                            <!--<button type="button" class="btn btn-warning btn-s" ng-click="uploader.cancelAll()" ng-disabled="!uploader.isUploading">
+                                                <span class="glyphicon glyphicon-ban-circle"></span> Cancel all
+                                            </button>
+                                            <button type="button" class="btn btn-danger btn-s" ng-click="uploader.clearQueue()" ng-disabled="!uploader.queue.length">
+                                                <span class="glyphicon glyphicon-trash"></span> Remove all
+                                            </button> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel-footer">
+                                <small>Click Images to edit</small>
+                                <button class="btn btn-primary pull-right" type="submit" id="saveProperty">SAVE PROPERTY</button>
+                                <div class="clearfix"></div>
+                                <button ng-if="isSaved" class="btn btn-success pull-right" type="submit" id="goToProfile" ui-sref="profile">Go to Profile</button>
+                                <div class="clearfix"></div>
+                            </div>
+                        <!-- </form> -->
+                    </div>
+                </form>
+                <div class="panel panel-default" ng-if="property.property_id">
+                    <div class="panel-heading">
+                        <h2 class="panel-title">Set Unavailable Dates</h2>
+                    </div>
+                    <div class="panel-body calendarHolder" >
+                        <div class="col-md-offset-3 col-md-6 col-sm-12">
+                            <my-calendar property="property" editable=true multiple="true" n="multipleEventName"></my-calendar>
+                        </div>
+                    </div>
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-md-offset-3 col-md-6 col-sm-12">
+                                <button class="btn btn-default btn-block " ng-click="saveEvents()">Save</button>       
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+<!--             <div class="col-xs-12 col-sm-4 placeholder">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <p class="panel-title">Property Statistics</p>
+                    </div>
+                    <form>
+                        <div class="panel-body">
+                            
+                        </div>
+                        <div class="panel-footer">
+                            <button class="btn btn-info pull-right">Add</button>
+                            <div class="clearfix"></div>
+                        </div>
+                    </form>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <p class="panel-title">Additional Information</p>
+                    </div>
+                    <form>
+                        <div class="panel-body">
+                            
+                        </div>
+                        <div class="panel-footer">
+                            <button class="btn btn-info pull-right">Add</button>
+                            <div class="clearfix"></div>
+                        </div>
+                    </form>
+                </div>
+            </div> -->
+        </div>
+    </div>
+</div>
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 7.517734199217642,4.526349925848308 -->

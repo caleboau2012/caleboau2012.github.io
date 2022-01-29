@@ -1,0 +1,74 @@
+1) Register
+
+url: http://localhost/ariya/api/v1/register
+
+example: http://localhost/ariya/api/v1/register?email=ariyadev@ariyadev.com&password=ariya&fname=Ariya&lname=Dev&sex=M&phone=08033241578&address=Department of Food Science and Engineering&city=Ile-Ife&state=Osun State&country=Nigeria&cname&caddress&ccity&cstate&ccountry
+
+fields:
+ a) email
+ b) password
+ c) fname (First Name)
+ d) lname (Last Name)
+ e) sex
+ f) phone (Phone Number)
+ g) address
+ h) city
+ i) state
+ j) country
+ k) cname (Company Name)
+ l) caddress (Company Address)
+ m) ccity (Company City)
+ n) cstate (Company State)
+ o) ccountry (Company Country)
+
+Response:
+
+{
+"error": false,
+"email_address": "ariyadev@ariyadev.com",
+"isVerified": false,
+"created_time": "2015-03-16 12:03:01",
+"message": "You are successfully registered"
+}
+
+OR
+
+{
+"error": true,
+"message": "Sorry, this email already exists"
+}
+
+OR
+
+{
+"error": true,
+"message": "Oops! An error occurred while registering";
+}
+
+2) Login
+
+url: http://localhost/ariya/api/v1/login
+
+example: http://localhost/ariya/api/v1/login?email=ariyadev@ariyadev.com&password=ariya
+
+Response:
+
+{
+"error": false,
+"email": "ariya@ariya.com",
+"token": "e84d4b50b3a6a13c424e15c118d65ede",
+"isVerified": true,
+"created_time": "2015-03-14 13:47:58",
+"message": "You are successfully Logged-In"
+}
+
+OR
+
+{
+"error": true,
+"isVerified": false,
+"message": "User has not been Verified"
+}
+
+
+Your account has been created and an activation link has been sent to the email address you entered. Note that you must activate the account by clicking on the activation link when you get the email before you can login.

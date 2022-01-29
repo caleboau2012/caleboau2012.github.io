@@ -1,0 +1,70 @@
+<div class="row">
+    <div class="col-xs-12 col-sm-3 col-md-2 sidebar">
+        <div ng-if="!currentUser" class="well">
+            <div class="text-center">
+                <p>You are not logged in.</p>
+            </div>
+            <div class="text-center">
+                <a ui-sref="login" class="btn btn-primary">Login/Register</a>
+            </div>
+        </div>
+        <div ng-if="currentUser" class="panel panel-info notifications" ng-controller="NotificationController">
+            <div class="panel-heading">
+                <div class="panel-title">Notifications</div>
+            </div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    <a href ng-click="selectNotification()" ng-repeat="noti in notificationArray">
+                        <li class="list-group-item small">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h5>{{noti.property_name}}</h5>
+                                    <p>{{noti.message}}</p>
+                                    <p><i>{{noti.date | amCalendar }} </i></p>
+                                </div>
+                            </div>
+                            <span class="clearfix"></span>
+                        </li>
+                    </a>
+                </ul>
+                <button ng-disabled="disableNotiLoadMore" class="btn btn-block btn-default" ng-click="moreNotifications()"> Load More </button>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" ng-controller="ListingController">
+        <!--<h1 class="page-header">Dashboard</h1>-->
+
+        <div class="row placeholders masonry" >
+            <div class="col-xs-12 col-sm-4 placeholder item" ng-repeat="property in propertyList">
+                <a href ui-sref="viewProperty({property_name:'{{property.other_name}}',id:{{property.property_id}}})">
+                    <div class="panel panel-info" >
+                        <div class="panel-heading">
+                            <div class="panel-title"><span class="pull-left">{{property.name}}</span> <span class="pull-right"><rating ng-model="property.rating" max="5" readonly="true"></rating></span></div>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="panel-body">
+                            <img ng-src="{{property.src}}" class="img-responsive" alt="Property thumbnail">
+                            <span class="text-muted">{{property.short_description}}</span>
+                            <br>
+                            <span class="text-muted small">Minimum Bid Price: ₦{{property.minimum_bid_price}}</span>
+                            <br>
+                            <span class="text-muted small">Booking Price: ₦{{property.booking_price}}</span>
+                        </div>
+                        <div class="panel-footer">
+                            <span class="glyphicon glyphicon-map-marker"></span>
+                            <span>{{property.street+" "+property.city+" "+property.state }}</span>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="row">
+            <div class="pull-right">
+                <pagination total-items="totalCount" ng-model="currentPage" max-size="maxCount" class="pagination-sm" boundary-links="true" rotate="false" num-pages="numPages" items-per-page="itemsPerPage" ng-change="changePage()"></pagination>
+            </div>
+        </div>
+    </div>
+</div>

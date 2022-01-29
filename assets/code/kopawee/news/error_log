@@ -1,0 +1,16 @@
+[26-Aug-2014 10:42:04 Africa/Lagos] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/calebcom/public_html/code/kopawee/news/news.php on line 16
+[26-Aug-2014 10:54:31 Africa/Lagos] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/calebcom/public_html/code/kopawee/news/news.php on line 16
+[26-Aug-2014 10:54:45 Africa/Lagos] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/calebcom/public_html/code/kopawee/news/news.php on line 16
+[26-Aug-2014 10:54:52 Africa/Lagos] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/calebcom/public_html/code/kopawee/news/news.php on line 16
+[26-Aug-2014 10:55:15 Africa/Lagos] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/calebcom/public_html/code/kopawee/news/news.php on line 16
+[26-Aug-2014 10:55:19 Africa/Lagos] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/calebcom/public_html/code/kopawee/news/news.php on line 16
+[26-Aug-2014 10:56:40 Africa/Lagos] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/calebcom/public_html/code/kopawee/news/news.php on line 16
+[26-Aug-2014 10:56:53 Africa/Lagos] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/calebcom/public_html/code/kopawee/news/news.php on line 16
+[16-Aug-2018 12:56:56 UTC] PHP Warning:  DOMDocument::load(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/calebcom/public_html/code/kopawee/news/news.php on line 12
+[16-Aug-2018 12:56:56 UTC] PHP Warning:  DOMDocument::load(http://www.vanguardngr.com/feed/): failed to open stream: no suitable wrapper could be found in /home/calebcom/public_html/code/kopawee/news/news.php on line 12
+[16-Aug-2018 12:56:56 UTC] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;http://www.vanguardngr.com/feed/&quot; in /home/calebcom/public_html/code/kopawee/news/news.php on line 12
+[16-Aug-2018 12:56:56 UTC] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/calebcom/public_html/code/kopawee/news/news.php on line 16
+[28-Dec-2018 08:54:51 UTC] PHP Warning:  DOMDocument::load(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/calebcom/public_html/code/kopawee/news/news.php on line 12
+[28-Dec-2018 08:54:51 UTC] PHP Warning:  DOMDocument::load(http://www.vanguardngr.com/feed/): failed to open stream: no suitable wrapper could be found in /home/calebcom/public_html/code/kopawee/news/news.php on line 12
+[28-Dec-2018 08:54:51 UTC] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;http://www.vanguardngr.com/feed/&quot; in /home/calebcom/public_html/code/kopawee/news/news.php on line 12
+[28-Dec-2018 08:54:51 UTC] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/calebcom/public_html/code/kopawee/news/news.php on line 16

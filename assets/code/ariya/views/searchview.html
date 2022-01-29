@@ -1,0 +1,132 @@
+<div class="row" ng-controller="SearchPageController">
+    <div class="col-xs-12 col-sm-3 col-md-2 sidebar">
+        <ul class="nav nav-sidebar search-filters">
+            <li class="active"><a>Search Filters</a></li>
+            <li>
+                <a data-toggle="collapse" data-target="#propertyFilters" aria-expanded="true" aria-controls="propertyFilters">
+                    Property Type
+                    <span class="caret"></span>
+                </a>
+                <div class="collapse in" id="propertyFilters">
+                    <ul class="list-group text-primary">
+                        <li class="list-group-item"><input type="checkbox" name="halls" ng-change="toggleParam(0,1,filter.type.hall)" ng-model="filter.type.hall"> Halls</li>
+                        <li class="list-group-item"><input type="checkbox" name="office" ng-change="toggleParam(0,2,filter.type.office)" ng-model="filter.type.office"> Office</li>
+                        <li class="list-group-item"><input type="checkbox" name="rooftop" ng-change="toggleParam(0,3,filter.type.rooftop)" ng-model="filter.type.rooftop"> Rooftop</li>
+                        <li class="list-group-item"><input type="checkbox" name="compound" ng-change="toggleParam(0,4,filter.type.compound)" ng-model="filter.type.compound"> Compound</li>
+                        <li class="list-group-item"><input type="checkbox" name="garden" ng-change="toggleParam(0,5,filter.type.garden)" ng-model="filter.type.garden"> Garden</li>
+                        <li class="list-group-item"><input type="checkbox" name="conference_room" ng-change="toggleParam(0,6,filter.type.conference_room)" ng-model="filter.type.conference_room"> Conference Room</li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <a data-toggle="collapse" href data-target="#priceBar" aria-expanded="true" aria-controls="priceBar">
+                    Price
+                    <span class="caret"></span>
+                </a>
+                <div class="collapse in" id="priceBar">
+                    <ul class="list-group text-primary">
+                        <li class="list-group-item">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <spanclass="pull-left">Min:₦0</span>
+                                    <span class="pull-right">Max:₦{{maxPrice}}</span>    
+                                </div>
+                                <input type="range" min="0" max="{{maxPrice}}" ng-value="search.price" ng-model="search.price" id="searchPrice">
+                                <br>
+                                <span class="center-text">Price: ₦{{search.price}}</span>    
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li><a data-toggle="collapse" href data-target="#starsFilters" aria-expanded="true" aria-controls="starsFilters">
+                Stars
+                <span class="caret"></span>
+            </a>
+                <div class="collapse in" id="starsFilters">
+                    <ul class="list-group text-primary">
+                        <li class="list-group-item">
+                            <input type="checkbox" name="5" ng-change="toggleParam(1,5,filter.rating.five)" ng-model="filter.rating.five">
+                            <rating ng-model="filter.rate" max="5" readonly="true"></rating>
+                        </li>
+                        <li class="list-group-item">
+                            <input type="checkbox" name="4" ng-change="toggleParam(1,4,filter.rating.four)" ng-model="filter.rating.four">
+                            <rating ng-model="filter.rate" max="4" readonly="true"></rating>
+                        </li>
+                        <li class="list-group-item">
+                            <input type="checkbox" name="3" ng-change="toggleParam(1,3,filter.rating.three)" ng-model="filter.rating.three">
+                            <rating ng-model="filter.rate" max="3" readonly="true"></rating>
+                        </li>
+                        <li class="list-group-item">
+                            <input type="checkbox" name="2" ng-change="toggleParam(1,2,filter.rating.two)" ng-model="filter.rating.two">
+                            <rating ng-model="filter.rate" max="2" readonly="true"></rating>
+                        </li>
+                        <li class="list-group-item">
+                            <input type="checkbox" name="1" ng-change="toggleParam(1,1,filter.rating.one)" ng-model="filter.rating.one">
+                            <rating ng-model="filter.rate" max="1" readonly="true"></rating>
+                        </li>
+                    </ul>
+                </div></li>
+            <li>
+                <a data-toggle="collapse" href data-target="#featureFilters" aria-expanded="true" aria-controls="featureFilters">
+                    Features
+                    <span class="caret"></span>
+                </a>
+                <div class="collapse in" id="featureFilters">
+                    <ul class="list-group text-primary">
+                        <li class="list-group-item"><input name="ac" type="checkbox" ng-change="toggleParam(2,'ac',filter.features.ac)" ng-model="filter.features.ac"> <span>Air Conditioning</span></li>
+                        <li class="list-group-item"><input name="pool" type="checkbox" ng-change="toggleParam(2,'pool',filter.features.pool)" ng-model="filter.features.pool"> <span>Swimming Pool</span></li>
+                        <li class="list-group-item"><input name="bar" type="checkbox" ng-change="toggleParam(2,'bar',filter.features.bar)" ng-model="filter.features.bar"> <span>Bar</span></li>
+                        <li class="list-group-item"><input name="internet" type="checkbox" ng-change="toggleParam(2,'internet',filter.features.internet)" ng-model="filter.features.internet"> <span>Internet</span></li>
+                        <li class="list-group-item"><input name="parking" type="checkbox" ng-change="toggleParam(2,'parking',filter.features.parking)" ng-model="filter.features.parking"> <span>Parking</span></li>
+                        <li class="list-group-item"><input name="restroom" type="checkbox" ng-change="toggleParam(2,'restroom',filter.features.restroom)" ng-model="filter.features.restroom"> <span>Rest Room</span></li>
+
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div ng-if="noResult"class="col-xs-12 col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        <div class="jumbotron" id="no-result">
+            <p>Oops...Sorry..no result found</p>
+        </div>
+    </div>
+
+    <div ng-if="!noResult" class="col-xs-12 col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        <!--<h1 class="page-header">Dashboard</h1>-->
+
+        <div class="row placeholders masonry">
+            <div class="col-xs-12 col-sm-4 placeholder item" ng-repeat="property in propertyList">
+                <a href ui-sref="viewProperty({property_name:'{{property.other_name}}',id:{{property.property_id}}})">
+                    <div class="panel panel-info" >
+                        <div class="panel-heading">
+                            <div class="panel-title"><span class="pull-left">{{property.name}}</span> <span class="pull-right"><rating ng-model="property.rating" max="5" readonly="true"></rating></span></div>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="panel-body">
+                            <img ng-src="{{property.src}}" class="img-responsive" alt="Property thumbnail">
+                            <span class="text-muted">{{property.short_description}}</span>
+                            <br>
+                            <span class="text-muted small">Minimum Bid Price: ₦{{property.minimum_bid_price}}</span>
+                            <br>
+                            <span class="text-muted small">Booking Price: ₦{{property.booking_price}}</span>
+                        </div>
+                        <div class="panel-footer">
+                            <span class="glyphicon glyphicon-map-marker"></span>
+                            <span>{{property.street+" "+property.city+" "+property.state }}</span>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="row">
+            <div class="pull-right">
+                <pagination total-items="totalCount" ng-model="currentPage" max-size="maxCount" class="pagination-sm" boundary-links="true" rotate="false" num-pages="numPages" items-per-page="itemsPerPage" ng-change="changePage()"></pagination>
+            </div>
+        </div>
+
+    </div>
+</div>

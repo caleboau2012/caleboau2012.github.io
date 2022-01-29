@@ -1,0 +1,9 @@
+10/27/15 14:59:00 [7520][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Access denied for user 'supportv_crm'@'localhost' (using password: YES)
+10/27/15 15:42:46 [7520][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Access denied for user 'supportv_crm'@'localhost' (using password: YES)
+10/27/15 15:45:12 [7520][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'supportv_crm'
+10/27/15 15:45:18 [7520][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'supportv_crm'
+10/27/15 15:51:25 [7520][-none-][FATAL] SECURITY: User authentication for caleb failed
+10/27/15 15:51:25 [7520][-none-][FATAL] FAILED LOGIN:attempts[1] - caleb
+10/27/15 18:09:01 [7620][-none-][FATAL] Retrieving record by id users:364bf5bc-ff62-c92f-96a3-55800394c989 found  Query Failed: SELECT users.* FROM users  WHERE users.id = '364bf5bc-ff62-c92f-96a3-55800394c989' AND users.deleted=0 LIMIT 0,1: MySQL error 1146: Table 'supportv_crm.users' doesn't exist
+10/27/15 20:32:42 [1972][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'supportv_crm.currencies' doesn't exist
+10/27/15 20:32:43 [1972][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'supportv_crm.config' doesn't exist

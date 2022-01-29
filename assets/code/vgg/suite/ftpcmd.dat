@@ -1,0 +1,7 @@
+user techtouc
+014qvMwT0c
+cd /public_ftp/test
+prompt
+mput *
+lcd c:\xampp\htdocs\suite
+quit
